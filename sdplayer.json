@@ -1,5 +1,95 @@
 [
   {
+    "id": "3136f66c-7f31-48f8-a998-7d2c033cf386",
+    "servers": [
+      {
+        "key": "kVj31nbM2L",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=spoph1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "cY4oprlKiE",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=sscex1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "5weJpBTIPV",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "db02b5a9-0990-4db3-9c2f-2acc9c1332fc",
+    "servers": [
+      {
+        "key": "cXMEvvnWA0",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=sscex2",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "36MtaaJIbN",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "7SgYSfPswJ",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "5c11dfae-5227-4276-95e1-636797e0b75d",
+    "servers": [
+      {
+        "key": "AnciBlXU1s",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=spoph1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "xOyeGs03pE",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "VYGgryKSsC",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "027cbda2-8044-4f68-a561-211e112b4540",
+    "servers": [
+      {
+        "key": "rGWsW0DsVR",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027303001.m3u8",
+        "label": "COURT 1"
+      },
+      {
+        "key": "5Mpl4MyHDQ",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027304201.m3u8",
+        "label": "COURT 2"
+      },
+      {
+        "key": "iaoG1O1sBt",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027301901.m3u8",
+        "label": "COURT 3"
+      },
+      {
+        "key": "KkzhmttIgQ",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027304401.m3u8",
+        "label": "COURT 4"
+      },
+      {
+        "key": "05R2qPkq6w",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
     "id": "4384290a-aa09-49f9-868f-e5f6d7c20782",
     "servers": [
       {
@@ -40,36 +130,6 @@
     ]
   },
   {
-    "id": "027cbda2-8044-4f68-a561-211e112b4540",
-    "servers": [
-      {
-        "key": "rGWsW0DsVR",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027303001.m3u8",
-        "label": "COURT 1"
-      },
-      {
-        "key": "5Mpl4MyHDQ",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027304201.m3u8",
-        "label": "COURT 2"
-      },
-      {
-        "key": "iaoG1O1sBt",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027301901.m3u8",
-        "label": "COURT 3"
-      },
-      {
-        "key": "KkzhmttIgQ",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027304401.m3u8",
-        "label": "COURT 4"
-      },
-      {
-        "key": "05R2qPkq6w",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
     "id": "54af4489-14b9-4658-9ded-34321e884173",
     "servers": [
       {
@@ -84,66 +144,6 @@
       },
       {
         "key": "VjsCXhAtjP",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "3136f66c-7f31-48f8-a998-7d2c033cf386",
-    "servers": [
-      {
-        "key": "kVj31nbM2L",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "cY4oprlKiE",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "5weJpBTIPV",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "db02b5a9-0990-4db3-9c2f-2acc9c1332fc",
-    "servers": [
-      {
-        "key": "cXMEvvnWA0",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "36MtaaJIbN",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "7SgYSfPswJ",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "5c11dfae-5227-4276-95e1-636797e0b75d",
-    "servers": [
-      {
-        "key": "AnciBlXU1s",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "xOyeGs03pE",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "VYGgryKSsC",
         "url": "",
         "label": ""
       }
