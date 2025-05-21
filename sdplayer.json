@@ -4,38 +4,18 @@
     "servers": [
       {
         "key": "kVj31nbM2L",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=spoph1",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "cY4oprlKiE",
         "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=sscex1",
         "label": "HD AUTO"
       },
       {
+        "key": "cY4oprlKiE",
+        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY5MzY5NCZzaz0xYzlhYzAxJnR5cGU9cw==",
+        "label": "SD [IOS]"
+      },
+      {
         "key": "5weJpBTIPV",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "db02b5a9-0990-4db3-9c2f-2acc9c1332fc",
-    "servers": [
-      {
-        "key": "cXMEvvnWA0",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=sscex2",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "36MtaaJIbN",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "7SgYSfPswJ",
-        "url": "",
-        "label": ""
+        "url": "https://ayagan.hayuhi.online/hls/okko_fut/playlist.m3u8?token=919cfd7a7032ecbd4aeeb30bcdf5aeeb-0.337861716784142-0.012299559386886871",
+        "label": "SD [IOS]"
       }
     ]
   },
@@ -44,18 +24,18 @@
     "servers": [
       {
         "key": "AnciBlXU1s",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=spoph1",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "xOyeGs03pE",
         "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc1",
         "label": "HD AUTO"
       },
       {
-        "key": "VYGgryKSsC",
+        "key": "xOyeGs03pE",
         "url": "",
         "label": ""
+      },
+      {
+        "key": "VYGgryKSsC",
+        "url": "https://ayagan.hayuhi.online/hls/ssc_extra2/playlist.m3u8?token=5c4c051904470d05d3c47a5820eb95b1-0.7391110620957324-0.7584100235095295",
+        "label": "SD [IOS]"
       }
     ]
   },
@@ -144,6 +124,26 @@
       },
       {
         "key": "VjsCXhAtjP",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "db02b5a9-0990-4db3-9c2f-2acc9c1332fc",
+    "servers": [
+      {
+        "key": "cXMEvvnWA0",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=sscex2",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "36MtaaJIbN",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "7SgYSfPswJ",
         "url": "",
         "label": ""
       }
