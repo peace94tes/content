@@ -154,18 +154,18 @@
     "servers": [
       {
         "key": "3IWfUdNaLD",
-        "url": "",
-        "label": ""
+        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY5NzY3NiZzaz0xYzlhYzAxJnR5cGU9cw==",
+        "label": "SD [IOS]"
       },
       {
         "key": "W5kKXLIJRg",
-        "url": "",
-        "label": ""
+        "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_usa_bein_sport_espanol/index.m3u8",
+        "label": "SD [IOS]"
       },
       {
         "key": "uJAJE03FqX",
-        "url": "",
-        "label": ""
+        "url": "https://live.jiatianxiazhuangshi.com/live/60648927_41b09a8aa5a9c5efc9f87ebae7650ef8_nsd.m3u8",
+        "label": "ANDROID/PC"
       }
     ]
   },
