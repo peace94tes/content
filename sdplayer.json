@@ -44,22 +44,22 @@
     "servers": [
       {
         "key": "rGWsW0DsVR",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027303001.m3u8",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027303601.m3u8",
         "label": "COURT 1"
       },
       {
         "key": "5Mpl4MyHDQ",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027304201.m3u8",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027303801.m3u8",
         "label": "COURT 2"
       },
       {
         "key": "iaoG1O1sBt",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027301901.m3u8",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027303701.m3u8",
         "label": "COURT 3"
       },
       {
         "key": "KkzhmttIgQ",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027304401.m3u8",
+        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027303901.m3u8",
         "label": "COURT 4"
       },
       {
