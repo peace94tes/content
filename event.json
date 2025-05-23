@@ -12,9 +12,9 @@
       "name": "Badminton",
       "logo": "https://static.flashscore.com/res/image/data/Ua58lxW1-OtwGqzKM.png"
     },
-    "kickoff_date": "2025-05-23",
+    "kickoff_date": "2025-05-24",
     "kickoff_time": "08:00",
-    "match_date": "2025-05-23",
+    "match_date": "2025-05-24",
     "match_time": "08:00",
     "firstRow": 3
   },
@@ -39,7 +39,7 @@
   },
   {
     "id": "912533f8-c089-4fef-8e00-0d53ace2ba1a",
-    "duration": 1000,
+    "duration": 8,
     "league": "2025 MotoGP British Grand Prix",
     "icon": "https://i.imgur.com/hYCzOBd.png",
     "team1": {
@@ -50,15 +50,15 @@
       "name": "MotoGP",
       "logo": "https://i.imgur.com/enF2GWY.png"
     },
-    "kickoff_date": "2025-05-23",
-    "kickoff_time": "16:00",
-    "match_date": "2025-05-23",
-    "match_time": "16:00",
+    "kickoff_date": "2025-05-24",
+    "kickoff_time": "15:40",
+    "match_date": "2025-05-24",
+    "match_time": "15:40",
     "firstRow": 5
   },
   {
     "id": "814abc51-85ff-401b-89dc-e815e8d0540b",
-    "duration": 1000,
+    "duration": 7,
     "league": "Monaco Grand Prix 2025",
     "icon": "https://i.imgur.com/hYCzOBd.png",
     "team1": {
@@ -69,125 +69,11 @@
       "name": "Formula 1",
       "logo": "https://i.imgur.com/b46oyE7.png"
     },
-    "kickoff_date": "2025-05-23",
+    "kickoff_date": "2025-05-24",
     "kickoff_time": "17:30",
-    "match_date": "2025-05-23",
+    "match_date": "2025-05-24",
     "match_time": "17:30",
     "firstRow": 6
-  },
-  {
-    "id": "e8b57524-c105-4221-b983-47ee836bca03",
-    "duration": 2.17,
-    "league": "K League 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Jeju United",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/sC2vTgf3ZsFWY8a1o4tkbg_96x96.png"
-    },
-    "team2": {
-      "name": "Jeonbuk Motors",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/5JL1pqxK8ydx8YzPIWTCKg_96x96.png"
-    },
-    "kickoff_date": "2025-05-23",
-    "kickoff_time": "17:30",
-    "match_date": "2025-05-23",
-    "match_time": "17:30",
-    "firstRow": 7
-  },
-  {
-    "id": "396f27e7-7edd-464a-babc-b24bc916a5bb",
-    "duration": 2.17,
-    "league": "K League 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Anyang",
-      "logo": "https://tmssl.akamaized.net//images/wappen/head/38898.png?lm=1709930221"
-    },
-    "team2": {
-      "name": "Pohang Steelers",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/oHFLIPiY-JeABv5EXD8-5Q_96x96.png"
-    },
-    "kickoff_date": "2025-05-23",
-    "kickoff_time": "17:30",
-    "match_date": "2025-05-23",
-    "match_time": "17:30",
-    "firstRow": 8
-  },
-  {
-    "id": "55c008d0-8a66-4b78-9ac8-b34dd7afa59a",
-    "duration": 2.17,
-    "league": "Liga 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Persebaya Surabaya",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/sknmRTJdv0tHxLHy-H1L8Q_96x96.png"
-    },
-    "team2": {
-      "name": "Bali United",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/6jWWRbyJ1K3tu48xCP33Gg_96x96.png"
-    },
-    "kickoff_date": "2025-05-23",
-    "kickoff_time": "19:00",
-    "match_date": "2025-05-23",
-    "match_time": "19:00",
-    "firstRow": 9
-  },
-  {
-    "id": "39608496-8006-445f-9eb3-30c39c3c8fea",
-    "duration": 2.17,
-    "league": "Liga 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Persija",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zG89oHU9U0HCCF-zutao2Q_96x96.png"
-    },
-    "team2": {
-      "name": "Malut United",
-      "logo": "https://tmssl.akamaized.net/images/wappen/head/97916.png?lm=1688777192"
-    },
-    "kickoff_date": "2025-05-23",
-    "kickoff_time": "19:00",
-    "match_date": "2025-05-23",
-    "match_time": "19:00",
-    "firstRow": 10
-  },
-  {
-    "id": "3b06c417-1f7d-489c-ba17-0fadc936c486",
-    "duration": 2.17,
-    "league": "Liga 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "PSM",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1-PbIEfjB_RIrtqlxGEK7w_96x96.png"
-    },
-    "team2": {
-      "name": "Persita",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/KS6m2kDLyw-alBwraSvPZA_96x96.png"
-    },
-    "kickoff_date": "2025-05-23",
-    "kickoff_time": "19:00",
-    "match_date": "2025-05-23",
-    "match_time": "19:00",
-    "firstRow": 11
-  },
-  {
-    "id": "6c588368-fc46-4bf8-8fab-e7d96c8a407f",
-    "duration": 2.17,
-    "league": "Liga 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Dewa United",
-      "logo": "https://tmssl.akamaized.net/images/wappen/head/72710.png?lm=1613993004"
-    },
-    "team2": {
-      "name": "PSBS Biak Numfor",
-      "logo": "https://tmssl.akamaized.net/images/wappen/head/72715.png?lm=1722134974"
-    },
-    "kickoff_date": "2025-05-23",
-    "kickoff_time": "19:00",
-    "match_date": "2025-05-23",
-    "match_time": "19:00",
-    "firstRow": 12
   },
   {
     "id": "a90d64a0-3b39-4c0e-aaa6-88af1eb8b96f",
