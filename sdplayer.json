@@ -194,13 +194,13 @@
     "servers": [
       {
         "key": "qkcWd7BkZe",
-        "url": "",
-        "label": ""
+        "url": "https://live1.jiatianxiazhuangshi.com/live/59796310_43388afc5211349520632fbb81836a13_autoChange.m3u8?auth_key=1747974225-0-0-ac23ba905f2709adc22b62087e68c44c",
+        "label": "ANDROID/PC"
       },
       {
         "key": "6QZhNByr26",
-        "url": "",
-        "label": ""
+        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-2-3853218-2.m3u8?txSecret=fd165d90dc545ee352ba5a4d21842570&txTime=682ffa3b",
+        "label": "SD [IOS]"
       },
       {
         "key": "pcCfieSnxK",
