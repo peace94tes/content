@@ -1,5 +1,110 @@
 [
   {
+    "id": "a90d64a0-3b39-4c0e-aaa6-88af1eb8b96f",
+    "servers": [
+      {
+        "key": "gG0hl4IdUe",
+        "url": "https://bikinbaru96.blogspot.com/p/playermpd.html?channel=ad1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "kAPJ9ArG9p",
+        "url": "https://bikinbaru96.blogspot.com/p/playermpd.html?channel=tnt1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "Rti2hgY8HG",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "FKs8BMidQD",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "DIR1d04ubW",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "aRX53G6csa",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "b5d4548d-53f3-4184-ab4b-d6e79899094c",
+    "servers": [
+      {
+        "key": "N637bIAasN",
+        "url": "https://bikinbaru96.blogspot.com/p/playermpd.html?channel=ad2",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "ERwrzQutlX",
+        "url": "https://bikinbaru96.blogspot.com/p/playermpd.html?channel=tnt2",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "B0A9J4DIjY",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "ysVsbQbjgQ",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "FJWPmlisHx",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "NHaz006q6s",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "6aac8a0a-922f-4943-acd5-af2b510725b9",
+    "servers": [
+      {
+        "key": "AW3RvASitk",
+        "url": "https://bikinbaru96.blogspot.com/p/playermpd.html?channel=beinid1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "NEAihnHHEn",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "pyug6j0ivd",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "JI1yKwpU41",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "NYEmwLnS1C",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "WdtUfbuJtT",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
     "id": "e8b57524-c105-4221-b983-47ee836bca03",
     "servers": [
       {
