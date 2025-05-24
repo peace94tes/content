@@ -1,106 +1,31 @@
 [
   {
-    "id": "a90d64a0-3b39-4c0e-aaa6-88af1eb8b96f",
+    "id": "27fa8859-149b-49dd-8f64-de5916652b9c",
     "servers": [
       {
         "key": "gG0hl4IdUe",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ad1",
-        "label": "HD AUTO"
+        "url": "https://bikinbaru94.blogspot.com/p/playerjw.html?key=k1",
+        "label": "SD [IOS]"
       },
       {
         "key": "kAPJ9ArG9p",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
-        "label": "HD AUTO"
-      },
+        "url": "https://bikinbaru94.blogspot.com/p/playerjw.html?key=k2",
+        "label": "SD [IOS]"
+      }
+    ]
+  },
+  {
+    "id": "7a204717-ec77-4ea7-863e-d591670da916",
+    "servers": [
       {
         "key": "Rti2hgY8HG",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjcwMTI0NSZzaz0xYzlhYzAxJnR5cGU9cw==",
+        "url": "https://bikinbaru94.blogspot.com/p/playerjw.html?key=k3",
         "label": "SD [IOS]"
       },
       {
         "key": "FKs8BMidQD",
-        "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8",
+        "url": "https://bikinbaru94.blogspot.com/p/playerjw.html?key=k4",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "DIR1d04ubW",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "aRX53G6csa",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "b5d4548d-53f3-4184-ab4b-d6e79899094c",
-    "servers": [
-      {
-        "key": "N637bIAasN",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ad2",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "ERwrzQutlX",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt2",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "B0A9J4DIjY",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjcwMTI1MSZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "ysVsbQbjgQ",
-        "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_2/index.m3u8",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "FJWPmlisHx",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "NHaz006q6s",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "6aac8a0a-922f-4943-acd5-af2b510725b9",
-    "servers": [
-      {
-        "key": "AW3RvASitk",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=beinid1",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "NEAihnHHEn",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjcwMTI3MiZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "pyug6j0ivd",
-        "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "JI1yKwpU41",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "NYEmwLnS1C",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "WdtUfbuJtT",
-        "url": "",
-        "label": ""
       }
     ]
   },
