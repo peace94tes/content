@@ -135,7 +135,7 @@
     ]
   },
   {
-    "id": "aa422adb-e875-4ebf-98fa-75bfb69d1b04",
+    "id": "aa422ad8-e875-4ebf-98fa-75bfb69d1b04",
     "servers": [
       {
         "key": "DiD2kqfX5g",
@@ -146,11 +146,6 @@
         "key": "UuSQ2nlmLs",
         "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027304901.m3u8",
         "label": "COURT 2"
-      },
-      {
-        "key": "f8ewBTRlen",
-        "url": "https://hlslive-tx-cdn.ysp.cctv.cn/peacetv/2027305001.m3u8",
-        "label": "COURT 3"
       },
       {
         "key": "05R2qPkq6w",
