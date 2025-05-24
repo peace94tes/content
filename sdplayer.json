@@ -259,13 +259,13 @@
     "servers": [
       {
         "key": "CekKNmWHVK",
-        "url": "",
-        "label": ""
+        "url": "https://live.jiatianxiazhuangshi.com/live/51472467_8a1a51d18523fd1793565eba80a868a9_nsd.m3u8",
+        "label": "ANDROID/PC"
       },
       {
         "key": "G1f4Stcer4",
-        "url": "",
-        "label": ""
+        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4160882-0.m3u8?txSecret=4bae877f51ea8ecebdcb2d9451a9788c&txTime=6831fb88",
+        "label": "SD [IOS]"
       }
     ]
   },
