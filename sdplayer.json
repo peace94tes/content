@@ -3,6 +3,11 @@
     "id": "81263579-b2f1-4017-ad85-fd8993f938e5",
     "servers": [
       {
+        "key": "9oXI7PEmwT",
+        "url": "https://bikinbaru94.blogspot.com/p/player-mpd.html?id=astro_pl2",
+        "label": "HD AUTO"
+      },
+      {
         "key": "loGOIzAMFD",
         "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tel",
         "label": "HD AUTO"
@@ -21,11 +26,6 @@
         "key": "1J4YBsVIDf",
         "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "9oXI7PEmwT",
-        "url": "",
-        "label": ""
       },
       {
         "key": "mmt1uIjnmK",
@@ -493,6 +493,11 @@
     "id": "a80f3673-107c-4c88-85f6-b5bfeddda45b",
     "servers": [
       {
+        "key": "pl4uf9am6a",
+        "url": "https://bikinbaru94.blogspot.com/p/player-mpd.html?id=astro_pl1",
+        "label": "HD AUTO"
+      },
+      {
         "key": "uXRxSk09ee",
         "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=usacwest",
         "label": "HD AUTO"
@@ -511,11 +516,6 @@
         "key": "sbu5k42IpV",
         "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/index.m3u8",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "pl4uf9am6a",
-        "url": "",
-        "label": ""
       },
       {
         "key": "d4OaH4yXUS",
