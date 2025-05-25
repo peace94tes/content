@@ -678,19 +678,19 @@
     "id": "24912f81-9465-4068-ad12-93e680df47de",
     "servers": [
       {
-        "key": "XFhrePhvWf",
-        "url": "",
-        "label": ""
-      },
-      {
         "key": "TioUWgRe6E",
-        "url": "",
-        "label": ""
+        "url": "https://live.jiatianxiazhuangshi.com/live/59796318_e369391bcec83b00320332f210571333_autoChange.m3u8?auth_key=1748147471-0-0-083b20e3cf9173a3b142c0548ac1e5e4",
+        "label": "ANDROID/PC"
       },
       {
         "key": "7G5mOcdT2l",
-        "url": "",
-        "label": ""
+        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-2-3853219-0.m3u8?txSecret=2fa7f9869da0eb020a01c3c1d47c0ad3&txTime=68329d47",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "XFhrePhvWf",
+        "url": "https://svekrovdjamilya.hayuhi.online/hls/set1/playlist.m3u8?token=1599ded185e36ed44a30944e35fd8bf3-0.6639147444402487-0.8069959887854277",
+        "label": "SD [IOS]"
       },
       {
         "key": "242AqiDEZO",
