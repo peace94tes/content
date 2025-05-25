@@ -334,7 +334,7 @@
       },
       {
         "key": "05R2qPkq6w",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=astro_bad1b",
+        "url": "https://bikinbaru94.blogspot.com/p/player-mpd.html?id=astro_bad1",
         "label": "HD COURT 1"
       },
       {
@@ -419,7 +419,7 @@
     "servers": [
       {
         "key": "KxhimpWv26",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=astro_bol1",
+        "url": "https://bikinbaru94.blogspot.com/p/player-mpd.html?id=astro_bol1",
         "label": "HD AUTO"
       },
       {
@@ -443,6 +443,11 @@
     "id": "a325b151-f3d2-469b-89eb-6f10a62d931e",
     "servers": [
       {
+        "key": "pEGUHng8wM",
+        "url": "https://bikinbaru94.blogspot.com/p/player-mpd.html?id=arena1",
+        "label": "HD AUTO"
+      },
+      {
         "key": "0oTp9IE9mR",
         "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY4NjYyMCZzaz0xYzlhYzAxJnR5cGU9cw==",
         "label": "SD [IOS]"
@@ -451,11 +456,6 @@
         "key": "pn2g6o3M0d",
         "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_Hub_Premier_8_FHD/index.m3u8",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "pEGUHng8wM",
-        "url": "",
-        "label": ""
       },
       {
         "key": "RQu10mIcIE",
@@ -528,6 +528,11 @@
     "id": "4bc6df5d-8f46-48b2-8cc0-38e4c9488d49",
     "servers": [
       {
+        "key": "wpvZgm4oIW",
+        "url": "https://bikinbaru94.blogspot.com/p/player-mpd.html?id=arena2",
+        "label": "HD AUTO"
+      },
+      {
         "key": "eh9rwlOcv5",
         "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY4NjYxOCZzaz0xYzlhYzAxJnR5cGU9cw==",
         "label": "SD [IOS]"
@@ -536,11 +541,6 @@
         "key": "LZu6qM78W1",
         "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_NZ_SKY_Sport_7/index.m3u8",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "wpvZgm4oIW",
-        "url": "",
-        "label": ""
       },
       {
         "key": "cBZiaRN4cd",
@@ -589,7 +589,7 @@
     "servers": [
       {
         "key": "hgDfe60jlf",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=astro_bol2",
+        "url": "https://bikinbaru94.blogspot.com/p/player-mpd.html?id=astro_bol2",
         "label": "HD AUTO"
       },
       {
