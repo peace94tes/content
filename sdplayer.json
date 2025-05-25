@@ -988,6 +988,11 @@
     "id": "281d0ae9-deb3-41d4-b173-9046e1a24248",
     "servers": [
       {
+        "key": "LhqeRJmG2E",
+        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9iaWtpbmJhcnU5NC5ibG9nc3BvdC5jb20vcC9pZnJhbWV5b3V0dWJlLmh0bWw/a2V5PWMx",
+        "label": "SD [IOS]"
+      },
+      {
         "key": "IlqeRJmG7E",
         "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjcxMDYzNiZzaz0xYzlhYzAxJnR5cGU9cw==",
         "label": "SD [IOS]"
