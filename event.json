@@ -74,5 +74,24 @@
     "match_date": "2025-05-27",
     "match_time": "00:30",
     "firstRow": 7
+  },
+  {
+    "id": "0c8f9982-3dc1-4407-a21a-4510663d4030",
+    "duration": 3,
+    "league": "NBA",
+    "icon": "https://i.imgur.com/TvPRxRB.png",
+    "team1": {
+      "name": "Timberwolves",
+      "logo": "https://static.flashscore.com/res/image/data/4KtOU7PL-KbXk58wB.png"
+    },
+    "team2": {
+      "name": "Thunder",
+      "logo": "https://static.flashscore.com/res/image/data/bJVxcfqG-zobYbbv1.png"
+    },
+    "kickoff_date": "2025-05-27",
+    "kickoff_time": "07:30",
+    "match_date": "2025-05-27",
+    "match_time": "07:30",
+    "firstRow": 8
   }
 ]
