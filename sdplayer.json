@@ -11,11 +11,6 @@
         "key": "7ySIHdBTfO",
         "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY5NDc4NyZzaz0xYzlhYzAxJnR5cGU9cw==",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "aLgezbkMLM",
-        "url": "",
-        "label": ""
       }
     ]
   },
@@ -31,11 +26,6 @@
         "key": "lR8lNu7fto",
         "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY5NDc5MSZzaz0xYzlhYzAxJnR5cGU9cw==",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "DjeDGNpz0G",
-        "url": "",
-        "label": ""
       }
     ]
   },
@@ -104,11 +94,21 @@
     "servers": [
       {
         "key": "mdGX9IxG4J",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "ld5hkshtIW",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt2",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "aLgezbkMLM",
         "url": "https://bikinbaru94.blogspot.com/p/all-player.html?live=new-york-knicks-vs-indiana-pacers-1629443836",
         "label": "SD [IOS]"
       },
       {
-        "key": "ld5hkshtIW",
+        "key": "DjeDGNpz0G",
         "url": "",
         "label": ""
       }
