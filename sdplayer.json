@@ -108,14 +108,14 @@
     "id": "0c8f9982-3dc1-4407-a21a-4510663d4030",
     "servers": [
       {
+        "key": "KCjOQvcPbS",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
+        "label": "HD AUTO"
+      },
+      {
         "key": "HnUkl9dAMg",
         "url": "https://bikinbaru94.blogspot.com/p/all-player.html?live=oklahoma-city-thunder-vs-minnesota-timberwolves-1629443705",
         "label": "SD AUTO"
-      },
-      {
-        "key": "KCjOQvcPbS",
-        "url": "",
-        "label": ""
       },
       {
         "key": "04bwl1M6Pf",
