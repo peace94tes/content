@@ -1,5 +1,20 @@
 [
   {
+    "id": "8c72b9db-75ba-45d9-9a68-865195065fdb",
+    "servers": [
+      {
+        "key": "mdGX9IxG4J",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "ld5hkshtIW",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
     "id": "fb33b7b6-a9c8-463d-8277-86f181badef1",
     "servers": [
       {
@@ -25,100 +40,75 @@
     ]
   },
   {
-    "id": "33c3b50e-a761-4c7a-a89c-8244bf56164b",
+    "id": "8b1a4a48-4598-4501-938f-d558a1541198",
     "servers": [
       {
-        "key": "dtKlaTDb3C",
-        "url": "https://ayagan.hayuhi.online/hls/turkey1/playlist.m3u8?token=0397c9084635af62c450d575bd763995-0.705416998920235-0.8861399671231025",
+        "key": "Ukx5s1Xvfp",
+        "url": "https://sc.elutuna.workers.dev/309/playlist.m3u8",
         "label": "SD [IOS]"
       },
       {
-        "key": "NAJ4sEOfOe",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "IfbAqnrc7s",
+        "key": "UxzN8IqNUy",
         "url": "",
         "label": ""
       }
     ]
   },
   {
-    "id": "0fd0c344-e132-43fd-8e4b-47eadc010253",
+    "id": "9a0363c8-89c8-48ec-abba-ff5b2b0af26a",
     "servers": [
       {
-        "key": "Ac1mFs4N4G",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=spoph1",
-        "label": "HD AUTO"
+        "key": "rPpQu2nPF1",
+        "url": "",
+        "label": ""
       },
       {
-        "key": "cIgGwK7cZO",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc5",
-        "label": "HD AUTO"
+        "key": "7ySIHdBTfO",
+        "url": "",
+        "label": ""
       },
       {
-        "key": "FvT7XBWjcL",
-        "url": "https://ayagan.hayuhi.online/hls/okko_prime/playlist.m3u8?token=ba3be17bda40304300d147d9b744714b-0.42228811209845696-0.7958009655155784",
-        "label": "SD [IOS]"
-      }
-    ]
-  },
-  {
-    "id": "1f7dbfeb-3594-465c-9d56-fa2fa22e258d",
-    "servers": [
-      {
-        "key": "S16LrcGGCr",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=spoph2",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "7ZqsgjMIys",
-        "url": "https://ayagan.hayuhi.online/hls/okko_fut/playlist.m3u8?token=6526f9cc92eb47716bc4d14fba7fc832-0.546247597499147-0.7060361692077934",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "MhG15HUKg4",
+        "key": "aLgezbkMLM",
         "url": "",
         "label": ""
       }
     ]
   },
   {
-    "id": "1f7dbfeb-3594-465c-9d56-fa2fa22e258d",
+    "id": "c4f1fd48-72ae-47ea-866e-7e454e869020",
     "servers": [
       {
-        "key": "epr74OlLVR",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc4",
-        "label": "HD AUTO"
+        "key": "zS5OnMAgoC",
+        "url": "",
+        "label": ""
       },
       {
-        "key": "xkCOZz2Yy3",
-        "url": "https://ayagan.hayuhi.online/hls/okko/playlist.m3u8?token=761001cf1691997d952a84df98e0feac-0.24953441790717723-0.7989939757216673",
-        "label": "SD [IOS]"
+        "key": "lR8lNu7fto",
+        "url": "",
+        "label": ""
       },
       {
-        "key": "eOAQcGeUCy",
+        "key": "DjeDGNpz0G",
         "url": "",
         "label": ""
       }
     ]
   },
   {
-    "id": "0c8f9982-3dc1-4407-a21a-4510663d4030",
+    "id": "b3bcdac6-9c95-4980-85d0-a64e082128e9",
     "servers": [
       {
-        "key": "KCjOQvcPbS",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
-        "label": "HD AUTO"
+        "key": "RvVGFwAvcF",
+        "url": "",
+        "label": ""
       },
       {
-        "key": "HnUkl9dAMg",
-        "url": "https://bikinbaru94.blogspot.com/p/all-player.html?live=oklahoma-city-thunder-vs-minnesota-timberwolves-1629443705",
-        "label": "SD AUTO"
+        "key": "EoC4Zph6VG",
+        "url": "",
+        "label": ""
       },
       {
-        "key": "04bwl1M6Pf",
+        "key": "HB9U80Df9C",
         "url": "",
         "label": ""
       }
