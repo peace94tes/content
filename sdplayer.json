@@ -5,65 +5,30 @@
       {
         "key": "vFGwMzG7wp",
         "url": "",
-        "label": ""
+        "label": "HD AUTO [IOS]"
       },
       {
         "key": "QsPAVbQhiy",
         "url": "",
-        "label": ""
+        "label": "Server 1"
       },
       {
         "key": "hqCVKJJQen",
         "url": "",
-        "label": ""
+        "label": "Server 2"
       },
       {
         "key": "H0hJqNLPEd",
-        "url": "",
+        "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
         "label": ""
       },
       {
         "key": "0uJqNZX2uA",
-        "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
-        "label": "SD [IOS]"
+        "url": "https://stream.sainaertebat.com/hls2/varzeshtest.m3u8",
+        "label": ""
       },
       {
         "key": "rn1ajr4k7h",
-        "url": "https://stream.sainaertebat.com/hls2/varzeshtest.m3u8",
-        "label": "SD [IOS]"
-      }
-    ]
-  },
-  {
-    "id": "d68af669-674f-4492-890a-28aea71b4cf3",
-    "servers": [
-      {
-        "key": "izBI1RctWZ",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "nzOisMraZo",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "BQXf2XHa4p",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "TOgTRNmQR2",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "ys4RCKLKmu",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "4hdr14Is3i",
         "url": "",
         "label": ""
       }
@@ -179,6 +144,41 @@
       },
       {
         "key": "W4ot7akly2",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "d68af669-674f-4492-890a-28aea71b4cf3",
+    "servers": [
+      {
+        "key": "izBI1RctWZ",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "nzOisMraZo",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "BQXf2XHa4p",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "TOgTRNmQR2",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "ys4RCKLKmu",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "4hdr14Is3i",
         "url": "",
         "label": ""
       }
