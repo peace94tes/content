@@ -19,82 +19,6 @@
     "firstRow": 4
   },
   {
-    "id": "ac025edc-7aec-406a-98db-90ad9ef0ddb3",
-    "duration": 2.17,
-    "league": "J1 League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Urawa Reds",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/F-09rxdgECid61-Rj8Uxrw_96x96.png"
-    },
-    "team2": {
-      "name": "Cerezo Osaka",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/T20Z8bRwgt-eP8J_w5esUw_96x96.png"
-    },
-    "kickoff_date": "2025-05-28",
-    "kickoff_time": "17:30",
-    "match_date": "2025-05-28",
-    "match_time": "17:30",
-    "firstRow": 5
-  },
-  {
-    "id": "51ed0f5b-857a-4427-b78f-37474d3ccc15",
-    "duration": 2.17,
-    "league": "K League 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Sangju Sangmu",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zMbApCPUxbVjMaBugpVp2A_96x96.png"
-    },
-    "team2": {
-      "name": "Seoul",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/tNdEyglQLcMMXoA7f-6ghA_96x96.png"
-    },
-    "kickoff_date": "2025-05-28",
-    "kickoff_time": "17:30",
-    "match_date": "2025-05-28",
-    "match_time": "17:30",
-    "firstRow": 6
-  },
-  {
-    "id": "5e21a3b2-8acc-4c3d-ab55-df6f780b00f0",
-    "duration": 2.17,
-    "league": "K League 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Gangwon",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/DuaOwMOLBfwzaP_meKLaEg_96x96.png"
-    },
-    "team2": {
-      "name": "Anyang",
-      "logo": "https://tmssl.akamaized.net//images/wappen/head/38898.png?lm=1709930221"
-    },
-    "kickoff_date": "2025-05-28",
-    "kickoff_time": "17:30",
-    "match_date": "2025-05-28",
-    "match_time": "17:30",
-    "firstRow": 7
-  },
-  {
-    "id": "aa0f6198-373e-4409-8b31-a864b0823ebe",
-    "duration": 2.17,
-    "league": "K League 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Gwangju",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/NWXV7bdDxjLz4zZk9bhoKg_96x96.png"
-    },
-    "team2": {
-      "name": "Ulsan",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/-K1h8OOTItUmjKqR2g5Nnw_96x96.png"
-    },
-    "kickoff_date": "2025-05-28",
-    "kickoff_time": "17:30",
-    "match_date": "2025-05-28",
-    "match_time": "17:30",
-    "firstRow": 8
-  },
-  {
     "id": "cd61886c-29d9-4a82-9d6f-50984471d79c",
     "duration": 4,
     "league": "Club Friendly Match",
@@ -111,7 +35,7 @@
     "kickoff_time": "19:45",
     "match_date": "2025-05-28",
     "match_time": "19:15",
-    "firstRow": 9
+    "firstRow": 5
   },
   {
     "id": "d68af669-674f-4492-890a-28aea71b4cf3",
@@ -130,7 +54,7 @@
     "kickoff_time": "02:00",
     "match_date": "2025-05-29",
     "match_time": "01:30",
-    "firstRow": 10
+    "firstRow": 6
   },
   {
     "id": "dcfbd3aa-0581-419e-8756-520899ed33e0",
@@ -149,7 +73,7 @@
     "kickoff_time": "06:30",
     "match_date": "2025-05-29",
     "match_time": "06:30",
-    "firstRow": 11
+    "firstRow": 7
   },
   {
     "id": "b06b379b-64f7-4b6a-9f73-bc7ab6c9a27a",
@@ -168,7 +92,7 @@
     "kickoff_time": "06:30",
     "match_date": "2025-05-29",
     "match_time": "06:30",
-    "firstRow": 12
+    "firstRow": 8
   },
   {
     "id": "8970a4f6-dab0-4052-91f9-9bef2c9a59f0",
@@ -187,6 +111,6 @@
     "kickoff_time": "07:30",
     "match_date": "2025-05-29",
     "match_time": "07:30",
-    "firstRow": 13
+    "firstRow": 9
   }
 ]
