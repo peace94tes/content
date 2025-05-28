@@ -1,95 +1,5 @@
 [
   {
-    "id": "9a0363c8-89c8-48ec-abba-ff5b2b0af26a",
-    "servers": [
-      {
-        "key": "rPpQu2nPF1",
-        "url": "https://live.jiatianxiazhuangshi.com/live/57130741_0a38e1d703015f3c4044d59a242c8081_nsd.m3u8",
-        "label": "ANDROID/PC"
-      },
-      {
-        "key": "7ySIHdBTfO",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY5NDc4NyZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      }
-    ]
-  },
-  {
-    "id": "c4f1fd48-72ae-47ea-866e-7e454e869020",
-    "servers": [
-      {
-        "key": "zS5OnMAgoC",
-        "url": "https://live1.jiatianxiazhuangshi.com/live/57130743_9f3bb5f1e72ea079ed329d0f33b2cfbf_nsd.m3u8",
-        "label": "ANDROID/PC"
-      },
-      {
-        "key": "lR8lNu7fto",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY5NDc5MSZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      }
-    ]
-  },
-  {
-    "id": "b3bcdac6-9c95-4980-85d0-a64e082128e9",
-    "servers": [
-      {
-        "key": "RvVGFwAvcF",
-        "url": "https://live2.jiatianxiazhuangshi.com/live/57130745_e9f235d4ed29dd6b12db275a9a2ac887_nsd.m3u8",
-        "label": "ANDROID/PC"
-      },
-      {
-        "key": "EoC4Zph6VG",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjY5NDc4OSZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "HB9U80Df9C",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "fb33b7b6-a9c8-463d-8277-86f181badef1",
-    "servers": [
-      {
-        "key": "U78UIIlgKz",
-        "url": "https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3910949843577061_AiHD.m3u8?txSecret=75ad3651b64b3e8d8180173183c572ea&txTime=68365200",
-        "label": "COURT 1"
-      },
-      {
-        "key": "RI1PqRWaGx",
-        "url": "https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950044897061_AiHD.m3u8?txSecret=722c008a24dd8236f68b230ac89f41e8&txTime=68365200",
-        "label": "COURT 2"
-      },
-      {
-        "key": "DdRLTsxfbG",
-        "url": "https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950267430061_AiHD.m3u8?txSecret=0fdbd3a07d27f8ea8b5cd0251ab3722f&txTime=68365200",
-        "label": "COURT 3"
-      },
-      {
-        "key": "OsHEn46bMR",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "8b1a4a48-4598-4501-938f-d558a1541198",
-    "servers": [
-      {
-        "key": "Ukx5s1Xvfp",
-        "url": "",
-        "label": ""
-      },
-      {
-        "key": "UxzN8IqNUy",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
     "id": "8c72b9db-75ba-45d9-9a68-865195065fdb",
     "servers": [
       {
@@ -106,11 +16,31 @@
         "key": "aLgezbkMLM",
         "url": "bikinbaru94.blogspot.com/p/iframeyoutube.html?key=l3n0CMvHBs9ZDhjLyw0TndqUCgHW",
         "label": "SD [IOS]"
+      }
+    ]
+  },
+  {
+    "id": "35702634-5896-48a6-9b6c-42b5f2c9cf72",
+    "servers": [
+      {
+        "key": "Wa1nk3tnxQ",
+        "url": "https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950559071061_AiHD.m3u8?txSecret=20363a53983e704a3b301d54857a9315&txTime=6837A380",
+        "label": "COURT 1"
+      },
+      {
+        "key": "T9g5H8OHc9",
+        "url": "https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3910951060393061_AiHD.m3u8?txSecret=a13c91d394e5635f9940e26c52d292f6&txTime=6837A380",
+        "label": "COURT 2"
+      },
+      {
+        "key": "ucrN93maPM",
+        "url": "https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910951237486061_AiHD.m3u8?txSecret=5c48ba3ef5dc2405db3213c42056b3b8&txTime=6837A380",
+        "label": "COURT 3"
       },
       {
         "key": "DjeDGNpz0G",
-        "url": "https://bikinbaru94.blogspot.com/p/all-player.html?live=new-york-knicks-vs-indiana-pacers-1629443836",
-        "label": "SD [IOS]"
+        "url": "",
+        "label": ""
       }
     ]
   }
