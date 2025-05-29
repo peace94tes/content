@@ -23,6 +23,11 @@
     "id": "39ce1e50-abe4-4cbe-889c-adeb130239bd",
     "servers": [
       {
+        "key": "M4n8F7fDQv",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=espnnl1",
+        "label": "HD AUTO"
+      },
+      {
         "key": "0ZVBVg9Jtf",
         "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjcyNjc3MiZzaz0xYzlhYzAxJnR5cGU9cw==",
         "label": "SD [IOS]"
@@ -31,11 +36,6 @@
         "key": "f19z3glrMs",
         "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "M4n8F7fDQv",
-        "url": "",
-        "label": ""
       }
     ]
   },
