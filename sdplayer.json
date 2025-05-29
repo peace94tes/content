@@ -3,11 +3,6 @@
     "id": "49810923-fb9a-49a5-89cd-8a851ee36f86",
     "servers": [
       {
-        "key": "NeZa0oZvNu",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=mew5",
-        "label": "HD COURT 1"
-      },
-      {
         "key": "lk6Guh8UZk",
         "url": "https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910951728025061_AiHD.m3u8?txSecret=709f3c368ccd837cc412c85c8231c965&txTime=6838F500",
         "label": "COURT 1"
@@ -21,6 +16,16 @@
         "key": "uka9g2FbVi",
         "url": "https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3910952090735061_AiHD.m3u8?txSecret=9dae8779a708ae86a03b7421ee9dd485&txTime=6838F500",
         "label": "COURT 3"
+      },
+      {
+        "key": "NeZa0oZvNu",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=mew5",
+        "label": "HD COURT 1"
+      },
+      {
+        "key": "ys4RCKLKmu",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=grandstand",
+        "label": "HD COURT 2"
       },
       {
         "key": "mBda5pu06Q",
