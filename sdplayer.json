@@ -4,28 +4,28 @@
     "servers": [
       {
         "key": "Gi9aCSuPpg",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc1",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=spoid2",
         "label": "HD AUTO"
       },
       {
         "key": "GpBhzKjyjs",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc5",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc1",
         "label": "HD AUTO"
       },
       {
         "key": "DPYJD9UITz",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ssc5",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "y4WJvnQFYP",
         "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4315635-0.m3u8?txSecret=ffaeebce449be23f5bded1e255790ee0&txTime=683a2c3c",
         "label": "SD [IOS]"
       },
       {
-        "key": "y4WJvnQFYP",
-        "url": "https://pull.dangaoka.com/live/stream-505050_lhd.m3u8?auth_key=1748631574-0-0-69a737b0768e33dcb399ca41ead708b9",
-        "label": "SD [IOS]"
-      },
-      {
         "key": "nczzSNZ0Gu",
-        "url": "",
-        "label": ""
+        "url": "https://peace94tes.github.io/My-Project/?url=https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1748631574-0-0-69a737b0768e33dcb399ca41ead708b9",
+        "label": "SD [IOS]"
       }
     ]
   },
