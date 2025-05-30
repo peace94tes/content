@@ -1,66 +1,31 @@
 [
   {
-    "id": "24d4c7a3-b709-43b7-b16d-96a3269e92ec",
+    "id": "c997a7dc-f931-40f0-8b39-919e259bcce1",
     "servers": [
       {
-        "key": "lpaCOHj3nx",
-        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4329481-0.m3u8?txSecret=5f148e42f71f3f25f096ee9114a1030c&txTime=6838af24",
-        "label": "SD [IOS]"
+        "key": "2RHvVemFoP",
+        "url": "https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910952410910061_AiHD.m3u8?txSecret=14807877bb7226ca02c4a795c2eede43&txTime=683A62A0",
+        "label": "COURT 1"
       },
       {
-        "key": "3E8HoLIIFE",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9wZWFjZTk0dGVzLmdpdGh1Yi5pby9vcGVuUGxheS8/dXJsPWh0dHBzOi8vaGlwYWY2dTJqM3B3eWdnLm5pY2UtZmxvd2VyLnN0b3JlL3YzL2RpcmVjdG9yL1ZFMU1UZ3dPREZpTXpCbFlqTmpMVGN5TXprdFpUVXdOQzB3T1dSa0xUWTNOekUzTldVeS9tYXN0ZXIubTN1OD9hdXRoX2tleT0xNzQ4NTE1MTYxLTljMGE2YTQ2YzM4YzEyZTRhMmQ3YTA2MjcyYTZlMzE5LTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwLTljYWZhZWQ3OTc1NDYyNzJiZWZkMzI3N2ZmMjQyNDY1",
-        "label": "SERVER 1"
+        "key": "S72OSXN6j6",
+        "url": "https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910952605772061_AiHD.m3u8?txSecret=a33a9f26d199c4e935ae6395733e9f45&txTime=683A62A0",
+        "label": "COURT 2"
       },
       {
-        "key": "LDIXMFNkbJ",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "39ce1e50-abe4-4cbe-889c-adeb130239bd",
-    "servers": [
-      {
-        "key": "M4n8F7fDQv",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=espnnl1",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "0ZVBVg9Jtf",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjcyNjc3MiZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "f19z3glrMs",
-        "url": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8",
-        "label": "SD [IOS]"
-      }
-    ]
-  },
-  {
-    "id": "529dc894-7af3-4965-b668-e3e18c5e3c31",
-    "servers": [
-      {
-        "key": "8YPHBaQVR3",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjcyNjc0OSZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "gwfbGsiG1G",
-        "url": "https://bikinbaru94.blogspot.com/p/iframeyoutube.html?key=beinfr1",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "KELhPCGyVz",
+        "key": "Pq048gCGgX",
         "url": "",
         "label": ""
       },
       {
-        "key": "HIoADJwQ7J",
-        "url": "",
-        "label": ""
+        "key": "NeZa0oZvNu",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=mew5",
+        "label": "HD COURT 1"
+      },
+      {
+        "key": "ys4RCKLKmu",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=grandstand",
+        "label": "HD COURT 2"
       }
     ]
   },
@@ -86,51 +51,6 @@
         "key": "PtKdMKrJbe",
         "url": "https://bikinbaru94.blogspot.com/p/all-player.html?play=new-york-knicks-vs-indiana-pacers/1",
         "label": "SD [IOS]"
-      }
-    ]
-  },
-  {
-    "id": "49810923-fb9a-49a5-89cd-8a851ee36f86",
-    "servers": [
-      {
-        "key": "lk6Guh8UZk",
-        "url": "https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910951728025061_AiHD.m3u8?txSecret=709f3c368ccd837cc412c85c8231c965&txTime=6838F500",
-        "label": "COURT 1"
-      },
-      {
-        "key": "ZGOoNF4mpk",
-        "url": "https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910951906461061_AiHD.m3u8?txSecret=b5486f38518129b1c80fc5fc9a1a18af&txTime=6838F500",
-        "label": "COURT 2"
-      },
-      {
-        "key": "uka9g2FbVi",
-        "url": "https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3910952090735061_AiHD.m3u8?txSecret=9dae8779a708ae86a03b7421ee9dd485&txTime=6838F500",
-        "label": "COURT 3"
-      },
-      {
-        "key": "NeZa0oZvNu",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=mew5",
-        "label": "HD COURT 1"
-      },
-      {
-        "key": "ys4RCKLKmu",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=grandstand",
-        "label": "HD COURT 2"
-      },
-      {
-        "key": "mBda5pu06Q",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "b6c4dc31-a2c7-4a73-a5cb-c3913beff598",
-    "servers": [
-      {
-        "key": "YANXkAFgvK",
-        "url": "https://live.jiatianxiazhuangshi.com/live/527r3i4e4yzc47e_6cf0f969e13930b8cc0119da1fe8e09e_nsd.m3u8",
-        "label": "ANDROID/PC"
       }
     ]
   }
