@@ -414,9 +414,9 @@
         }
 
         .sport-icon {
-            width: 18.5px;
-            height: auto;
-            /*height: 15px;
+            width: 24px !important;
+            height: 21.0938px !important;
+            /*width: 18.5 px; height: 15px;
             margin-right: 0px;*/
         }
 
