@@ -1,5 +1,40 @@
 [
   {
+    "id": "027cbda2-8044-4f68-a561-211e112b4540",
+    "servers": [
+      {
+        "key": "A3td9sdpzG",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=beinid1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "9KAkyUuyoX",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=fancode1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "dOdfkFT6tU",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=daznf1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "9wDnFePWrW",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=foxmx1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "nkYQH1ddE8",
+        "url": "",
+        "label": ""
+      },
+      {
+        "key": "2OBXYozCja",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
     "id": "b4ff482b-8aec-4377-89b9-a4c6b41cadf6",
     "servers": [
       {
