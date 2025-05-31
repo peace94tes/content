@@ -1,5 +1,50 @@
 [
   {
+    "id": "36086992-5afc-49cc-967f-4a724d060b36",
+    "servers": [
+      {
+        "key": "7O1dFobxh1",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=beinid1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "6F88aLvxdo",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "gkALiWNl6p",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=daznde1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "XEwi5GJrBQ",
+        "url": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "EhqMQKA5YB",
+        "url": "https://spring-band-b889.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "0I4GBl14Ep",
+        "url": "https://stream.sainaertebat.com/hls2/bein1.m3u8",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "AT3kpeGePY",
+        "url": "https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "XxZ2IvyJGn",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  {
     "id": "26ff311a-4a68-49fa-b8bc-f0ceab51230e",
     "servers": [
       {
