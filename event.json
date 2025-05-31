@@ -16,6 +16,7 @@
     "kickoff_time": "11:00",
     "match_date": "2025-05-31",
     "match_time": "11:00",
+    "infogp": "",
     "firstRow": 3
   },
   {
@@ -75,6 +76,7 @@
     "kickoff_time": "23:00",
     "match_date": "2025-05-31",
     "match_time": "23:00",
+    "infogp": "",
     "firstRow": 14
   },
   {
@@ -94,6 +96,7 @@
     "kickoff_time": "02:00",
     "match_date": "2025-06-01",
     "match_time": "01:00",
+    "infogp": "",
     "firstRow": 15
   },
   {
@@ -113,6 +116,7 @@
     "kickoff_time": "05:00",
     "match_date": "2025-06-01",
     "match_time": "05:00",
+    "infogp": "",
     "firstRow": 16
   },
   {
@@ -132,6 +136,7 @@
     "kickoff_time": "06:30",
     "match_date": "2025-06-01",
     "match_time": "06:30",
+    "infogp": "",
     "firstRow": 17
   },
   {
@@ -151,6 +156,7 @@
     "kickoff_time": "07:00",
     "match_date": "2025-06-01",
     "match_time": "07:00",
+    "infogp": "",
     "firstRow": 18
   },
   {
@@ -170,6 +176,7 @@
     "kickoff_time": "07:30",
     "match_date": "2025-06-01",
     "match_time": "07:30",
+    "infogp": "",
     "firstRow": 19
   },
   {
@@ -189,6 +196,7 @@
     "kickoff_time": "13:00",
     "match_date": "2025-06-01",
     "match_time": "13:00",
+    "infogp": "",
     "firstRow": 20
   },
   {
@@ -208,6 +216,7 @@
     "kickoff_time": "13:00",
     "match_date": "2025-06-01",
     "match_time": "13:00",
+    "infogp": "",
     "firstRow": 21
   },
   {
@@ -227,6 +236,7 @@
     "kickoff_time": "14:00",
     "match_date": "2025-06-01",
     "match_time": "14:00",
+    "infogp": "",
     "firstRow": 22
   },
   {
@@ -246,6 +256,7 @@
     "kickoff_time": "17:00",
     "match_date": "2025-06-01",
     "match_time": "17:00",
+    "infogp": "",
     "firstRow": 23
   },
   {
@@ -265,6 +276,7 @@
     "kickoff_time": "17:00",
     "match_date": "2025-06-01",
     "match_time": "17:00",
+    "infogp": "",
     "firstRow": 24
   },
   {
@@ -284,6 +296,7 @@
     "kickoff_time": "17:00",
     "match_date": "2025-06-01",
     "match_time": "17:00",
+    "infogp": "",
     "firstRow": 25
   }
 ]
