@@ -4,7 +4,7 @@
     "servers": [
       {
         "key": "KcjnknLK51",
-        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4256587-0.m3u8?txSecret=ab17f45b0e0d2567d4ac404a10174462&txTime=683ae1e0",
+        "url": "https://d1idvcyxv6ax6w.cloudfront.net/sport/202_3651045_1.m3u8?Expires=1748680048&Signature=kt3fxvLn2RgAWBMOj~uH~x~D0SAXut6LSLlc7Y9raHmXawZGRfb-RMOhiObgQHiy8wxqDS83sbaXaNh1zoXCa19sOgzG~4US66cyjlDO-DEfHZiDSET5DhnZarUM5XQtCNu251QiTgDjcHyXdwPdpNPqrt02TDlidRop3nBapudGhr5Uno4XNFuMtVRjqsfdipxoj52KYbtHsdg9cyNXPBGhblsWnXCL4eBdcTbQ2Nu6jr46lhiYbxlhYBVwFiKM~qHGvUsseiYe4OezifSmt8NkUlckdPxId7dTF0gyfCmKRVzfDErYBN5DxNZ2Z-9oRNuuBlEEbaZOkNjUvpp4lA__&Key-Pair-Id=K3B7F1C8QL0P5P",
         "label": "SD [IOS]"
       },
       {
@@ -14,8 +14,8 @@
       },
       {
         "key": "ZkNpQ4zoiS",
-        "url": "",
-        "label": ""
+        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4256587-0.m3u8?txSecret=ab17f45b0e0d2567d4ac404a10174462&txTime=683ae1e0",
+        "label": "SD [IOS]"
       }
     ]
   },
