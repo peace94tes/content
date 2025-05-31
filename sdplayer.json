@@ -4,8 +4,18 @@
     "servers": [
       {
         "key": "YKyDkDoO66",
-        "url": "https://peace94tes.github.io/My-Project/?url=https://pull.dangaoka.com/live/stream-551866_lhd.flv?auth_key=1748671414-0-0-0b5a9ec73a729a24a3e269828527b43b",
-        "label": "SERVER 1"
+        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjczNTU3NCZzaz0xYzlhYzAxJnR5cGU9cw==",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "DB2SjI0sR9",
+        "url": "https://hls.uouetrq19.com/live/sd-6MtMPH56DtrLTGcPnF.m3u8?txSecret=7c96f296b1c81dfe8f9f18d65d53e204&txTime=683BDECE",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "Q6YL76I37D",
+        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4256530-0.m3u8?txSecret=78552df2d7958bb58e2fddac3002c26e&txTime=683acd7c",
+        "label": "SD [IOS]"
       }
     ]
   },
@@ -14,7 +24,17 @@
     "servers": [
       {
         "key": "q4ilR8PpnN",
-        "url": "https://hls.uouetrq19.com/live/sd-6MtMPH56PnWkcVEapF.m3u8?txSecret=0638bb274a778273620726f8d129c0c7&txTime=683BDFBA",
+        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjczNTU3NSZzaz0xYzlhYzAxJnR5cGU9cw==",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "BMB9NLgH4k",
+        "url": "https://hls.uouetrq19.com/live/sd-6MtMPH56PnWkcVEapF.m3u8?txSecret=2cce3aaee22a562f3831c9ead02d75d6&txTime=683BDECE",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "WV2ZPEwpoQ",
+        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4256527-0.m3u8?txSecret=fdfb7d360fb658d1c393841fd327cb0f&txTime=683acd7c",
         "label": "SD [IOS]"
       }
     ]
@@ -24,8 +44,18 @@
     "servers": [
       {
         "key": "k4ezV3yJUM",
-        "url": "https://hls.uouetrq19.com/live/sd-6MtMPH55DsoexknKwd.m3u8?txSecret=18f46f6ce4a5dd978da790c660619fd7&txTime=683BDFBA",
+        "url": "https://hls.uouetrq19.com/live/sd-6MtMPH55DsoexknKwd.m3u8?txSecret=7ae73d53487f9d0d773b22b992c13120&txTime=683BDECE",
         "label": "SD [IOS]"
+      },
+      {
+        "key": "h2nnX4xjEC",
+        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4256557-0.m3u8?txSecret=3ba3135aee817b6e46f7fd964dd02fda&txTime=683acd7c",
+        "label": "SD [IOS]"
+      },
+      {
+        "key": "k44NkChKQ2",
+        "url": "",
+        "label": ""
       }
     ]
   },
