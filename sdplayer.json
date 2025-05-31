@@ -13,7 +13,7 @@
     "id": "9d18daa1-49d4-46e9-967e-9be6e77c86b7",
     "servers": [
       {
-        "key": "YKyDkDoO67",
+        "key": "q4ilR8PpnN",
         "url": "https://hls.uouetrq19.com/live/sd-6MtMPH56PnWkcVEapF.m3u8?txSecret=0638bb274a778273620726f8d129c0c7&txTime=683BDFBA",
         "label": "SD [IOS]"
       }
@@ -23,7 +23,7 @@
     "id": "76f2a735-94e4-4fee-a60c-381509600e36",
     "servers": [
       {
-        "key": "YKyDkDoO68",
+        "key": "k4ezV3yJUM",
         "url": "https://hls.uouetrq19.com/live/sd-6MtMPH55DsoexknKwd.m3u8?txSecret=18f46f6ce4a5dd978da790c660619fd7&txTime=683BDFBA",
         "label": "SD [IOS]"
       }
