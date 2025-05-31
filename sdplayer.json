@@ -31,11 +31,6 @@
         "key": "EO8bsl473k",
         "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4160893-0.m3u8?txSecret=cf410182c897f15a096f00989bcd68f5&txTime=683b3610",
         "label": "SD [IOS]"
-      },
-      {
-        "key": "dguiCKztY0",
-        "url": "",
-        "label": ""
       }
     ]
   },
@@ -80,6 +75,11 @@
       {
         "key": "9wDnFePWrW",
         "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=foxmx1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "dguiCKztY0",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=tsnf1",
         "label": "HD AUTO"
       },
       {
