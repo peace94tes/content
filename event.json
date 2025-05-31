@@ -38,44 +38,6 @@
     "firstRow": 4
   },
   {
-    "id": "5fb998dd-5df4-408e-abed-54d6723f0255",
-    "duration": 2.17,
-    "league": "Turkish Super League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Rizespor",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/KiNTeyPNWHfM6a_qusw4Qg_96x96.png"
-    },
-    "team2": {
-      "name": "Hatayspor",
-      "logo": "https://tmssl.akamaized.net/images/wappen/head/7775.png?lm=1441723606"
-    },
-    "kickoff_date": "2025-05-31",
-    "kickoff_time": "20:00",
-    "match_date": "2025-05-31",
-    "match_time": "20:00",
-    "firstRow": 11
-  },
-  {
-    "id": "e37b35d9-22cb-4764-9932-697c846664f6",
-    "duration": 2.17,
-    "league": "Turkish Super League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Fenerbahce",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/HOQreZgFrmtQiLi8HKb9zA_96x96.png"
-    },
-    "team2": {
-      "name": "Konyaspor",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/GI8KXqt_7nrWNszUh2mC-A_96x96.png"
-    },
-    "kickoff_date": "2025-05-31",
-    "kickoff_time": "20:00",
-    "match_date": "2025-05-31",
-    "match_time": "20:00",
-    "firstRow": 12
-  },
-  {
     "id": "26ff311a-4a68-49fa-b8bc-f0ceab51230e",
     "duration": 2.17,
     "league": "Turkish Super League",
