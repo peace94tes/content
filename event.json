@@ -21,7 +21,7 @@
   },
   {
     "id": "027cbda2-8044-4f68-a561-211e112b4540",
-    "duration": 1000,
+    "duration": 4,
     "league": "2025 F1 Spanish Grand Prix",
     "icon": "https://i.imgur.com/hYCzOBd.png",
     "team1": {
@@ -34,8 +34,8 @@
     },
     "kickoff_date": "2025-06-01",
     "kickoff_time": "20:00",
-    "match_date": "2025-05-30",
-    "match_time": "18:30",
+    "match_date": "2025-06-01",
+    "match_time": "20:00",
     "infogp": "Race | 20:00 WIB",
     "firstRow": 4
   },
