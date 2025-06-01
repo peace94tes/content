@@ -40,197 +40,22 @@
     ]
   },
   {
-    "id": "6cd0d52d-1526-4388-b8eb-1f728d437c9e",
-    "servers": [
-      {
-        "key": "f0dH2nvMZO",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "kKLIw5rzDG",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=starzplay",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "jL7UMPZjBJ",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=unifiufc",
-        "label": "HD AUTO"
-      },
-      {
-        "key": "pWgPrknhh7",
-        "url": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8",
-        "label": "SD [IOS]"
-      }
-    ]
-  },
-  {
-    "id": "4f35e241-f3fc-4d22-b8fe-e0f587a7b4c0",
-    "servers": [
-      {
-        "key": "iLylymM6ru",
-        "url": "https://mlswebcast.com/stream/miami.html",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "Cz9Zls1UeW",
-        "url": "https://bikinbaru94.blogspot.com/p/all-player.html?live=inter-miami-vs-columbus-crew-1326456",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "X3cFKAj0xJ",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "fa64f7e6-2426-4328-8bbc-51385df4da3d",
-    "servers": [
-      {
-        "key": "M1J8FdZiUr",
-        "url": "https://mlswebcast.com/stream/dallas.html",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "2aFsGMueVY",
-        "url": "https://bikinbaru94.blogspot.com/p/all-player.html?live=fc-dallas-vs-philadelphia-union-1326461",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "kYBuJGIoWc",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "36086992-5afc-49cc-967f-4a724d060b36",
-    "servers": [
-      {
-        "key": "7O1dFobxh1",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=beinid1",
-        "label": "BEIN ID"
-      },
-      {
-        "key": "6F88aLvxdo",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
-        "label": "TNT GB"
-      },
-      {
-        "key": "gkALiWNl6p",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=daznde1",
-        "label": "DAZN DE"
-      },
-      {
-        "key": "jrwOSegYwe",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=cbshd",
-        "label": "CBS US"
-      },
-      {
-        "key": "iFkutzOHi1",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=ziggo1",
-        "label": "ZIGGO NL"
-      },
-      {
-        "key": "35TbyaadPi",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=m6",
-        "label": "M6 FR"
-      },
-      {
-        "key": "otCUbu6fLZ",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=rsila2",
-        "label": "RSILA CH"
-      },
-      {
-        "key": "g1zK8avUA1",
-        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=cbssd",
-        "label": "SD AUTO"
-      },
-      {
-        "key": "XEwi5GJrBQ",
-        "url": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "EhqMQKA5YB",
-        "url": "https://spring-band-b889.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "0I4GBl14Ep",
-        "url": "https://stream.sainaertebat.com/hls2/bein1.m3u8",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "AT3kpeGePY",
-        "url": "https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "XxZ2IvyJGn",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "26ff311a-4a68-49fa-b8bc-f0ceab51230e",
-    "servers": [
-      {
-        "key": "P3rvjq1c4S",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjczNTM3OCZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "SQpzm71cmy",
-        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4160889-0.m3u8?txSecret=5c757740d9893a8d024821449b90b6eb&txTime=683b6034",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "tWR7wYtY6k",
-        "url": "",
-        "label": ""
-      }
-    ]
-  },
-  {
-    "id": "fe51422a-5390-42c5-8ce2-6489861c85fd",
-    "servers": [
-      {
-        "key": "EN9sCHs1dT",
-        "url": "https://sport.inplaynet.tech/livestream.html?src=aHR0cHM6Ly9zbWQuc3BvcnRwbGF5ZXIuaW8vZW1iZWQucGhwLz9tYXRjaF9pZD0xMjczNTM3NyZzaz0xYzlhYzAxJnR5cGU9cw==",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "ITG2P2sKXg",
-        "url": "https://vt-osoi7r4b.sportcdn.live/live/live-1-4160890-0.m3u8?txSecret=66b5b838d2d16a55f81c80522f102139&txTime=683b6034",
-        "label": "SD [IOS]"
-      },
-      {
-        "key": "VQkExVxacH",
-        "url": "https://live1.jiatianxiazhuangshi.com/live/51472473_175907e5170609c90be5703062e41319_nsd.m3u8",
-        "label": "ANDROID/PC"
-      }
-    ]
-  },
-  {
-    "id": "1741b779-abf9-4845-a05a-71b48e9214be",
+    "id": "831a27f9-586d-4302-bd13-b6ef59b622e3",
     "servers": [
       {
         "key": "bdghLr4Kg2",
         "url": "https://peace94tes.github.io/My-Project/?url=https://ali.hlspull.yximgs.com/live/40030.flv",
-        "label": "COURT 1"
+        "label": ""
       },
       {
         "key": "9evA3ZSenU",
-        "url": "https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3910953235352061_AiHD.m3u8?txSecret=6cdc989af10e61b5efbfdbb8aaa2b182&txTime=683BB420",
-        "label": "COURT 1+"
+        "url": "https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910953478621061_AiHD.m3u8?txSecret=b676647d95e40d1bf74f067641a9f8ca&txTime=683D21C0",
+        "label": "COURT 1"
       },
       {
         "key": "fD5hJG7Kg1",
         "url": "https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/peacetv/2027362901.m3u8",
-        "label": "COURT 1++"
+        "label": ""
       },
       {
         "key": "NeZa0oZvNu",
@@ -318,5 +143,30 @@
         "label": "BACKUP 2 [Ads]"
       }
     ]
-  }
+  },
+  {
+    "id": "6cd0d52d-1526-4388-b8eb-1f728d437c9e",
+    "servers": [
+      {
+        "key": "f0dH2nvMZO",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpd.html?channel=tnt1",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "kKLIw5rzDG",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=starzplay",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "jL7UMPZjBJ",
+        "url": "https://bikinbaru94.blogspot.com/p/playermpdd.html?id=unifiufc",
+        "label": "HD AUTO"
+      },
+      {
+        "key": "pWgPrknhh7",
+        "url": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8",
+        "label": "SD [IOS]"
+      }
+    ]
+  },
 ]
