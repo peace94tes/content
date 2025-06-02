@@ -20,27 +20,7 @@
     "firstRow": 3
   },
   {
-    "id": "027cbda2-8044-4f68-a561-211e112b4540",
-    "duration": 4,
-    "league": "2025 F1 Spanish Grand Prix",
-    "icon": "https://i.imgur.com/hYCzOBd.png",
-    "team1": {
-      "name": "Formula 1",
-      "logo": "https://i.imgur.com/b46oyE7.png"
-    },
-    "team2": {
-      "name": "Formula 1",
-      "logo": "https://i.imgur.com/b46oyE7.png"
-    },
-    "kickoff_date": "2025-06-01",
-    "kickoff_time": "20:00",
-    "match_date": "2025-06-01",
-    "match_time": "20:00",
-    "infogp": "Race | 20:00 WIB",
-    "firstRow": 4
-  },
-  {
-    "id": "10dc1cf2-97d7-4757-85f9-fea4ab6a63e7",
+    "id": "5d121530-9834-418f-9099-3d1f2c49d689",
     "duration": 3,
     "league": "UEFA Nations League",
     "icon": "https://i.imgur.com/oJfBO55.png",
