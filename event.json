@@ -40,6 +40,26 @@
     "firstRow": 4
   },
   {
+    "id": "59fded75-252f-4fad-8bda-88aae629b8c4",
+    "duration": 3,
+    "league": "International Friendly",
+    "icon": "https://i.imgur.com/oJfBO55.png",
+    "team1": {
+      "name": "Thailand",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png"
+    },
+    "team2": {
+      "name": "India",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png"
+    },
+    "kickoff_date": "2025-06-04",
+    "kickoff_time": "19:30",
+    "match_date": "2025-06-04",
+    "match_time": "19:00",
+    "infogp": "",
+    "firstRow": 11
+  },
+  {
     "id": "ff8284e3-4c1f-4404-8083-8da71065b506",
     "duration": 3,
     "league": "Volleyball Nations League Women",
