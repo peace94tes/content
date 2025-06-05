@@ -1,7 +1,7 @@
 [
   {
     "id": "45b28b31-5db2-4b55-b665-0e6ce77ec509",
-    "duration": 3,
+    "duration": 3.5,
     "league": "World Cup Qual. AFC",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -15,7 +15,7 @@
     "kickoff_date": "2025-06-05",
     "kickoff_time": "20:45",
     "match_date": "2025-06-05",
-    "match_time": "20:45",
+    "match_time": "20:15",
     "infogp": "", "firstRow": 7
   },
   {
