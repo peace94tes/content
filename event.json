@@ -38,41 +38,22 @@
     "infogp": "MotoGP Practice | 20:00 WIB", "firstRow": 4
   },
   {
-    "id": "604b96f8-0581-421b-a15d-b7bbfd082c80",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
+    "id": "111abc5d-f61a-4e9b-9d8d-267865856pw4",
+    "duration": 5,
+    "league": "ONE Friday Fights 111",
+    "icon": "https://i.imgur.com/q0y3Nhg.png",
     "team1": {
-      "name": "France W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
+      "name": "ONE FC",
+      "logo": "https://static.flashscore.com/res/image/data/zBTnv5YI-EonJtESJ.png"
     },
     "team2": {
-      "name": "Belgium W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png"
+      "name": "ONE FC",
+      "logo": "https://static.flashscore.com/res/image/data/zBTnv5YI-EonJtESJ.png"
     },
     "kickoff_date": "2025-06-06",
-    "kickoff_time": "14:00",
+    "kickoff_time": "19:30",
     "match_date": "2025-06-06",
-    "match_time": "14:00",
-    "infogp": "", "firstRow": 5
-  },
-  {
-    "id": "828abc5d-f61a-4e9b-9d8d-267865856cd4",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Turkey W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "team2": {
-      "name": "Thailand W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png"
-    },
-    "kickoff_date": "2025-06-06",
-    "kickoff_time": "18:30",
-    "match_date": "2025-06-06",
-    "match_time": "18:30",
+    "match_time": "19:30",
     "infogp": "", "firstRow": 6
   },
   {
