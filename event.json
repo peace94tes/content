@@ -54,7 +54,7 @@
     "kickoff_time": "17:30",
     "match_date": "2025-06-07",
     "match_time": "17:30",
-    "infogp": "", "firstRow": 6
+    "infogp": "", "firstRow": 5
   },
   {
     "id": "d242a724-9194-4ed2-928b-e157c6ed0aed",
@@ -92,6 +92,6 @@
     "kickoff_time": "20:00",
     "match_date": "2025-06-07",
     "match_time": "20:00",
-    "infogp": "", "firstRow": 5
+    "infogp": "", "firstRow": 7
   }
 ]
