@@ -38,215 +38,6 @@
     "infogp": "<br><br><br>Moto2 Race | 17:15 WIB<br>MotoGP Race | 19:00 WIB", "firstRow": 4
   },
   {
-    "id": "3e3d1d4f-48a7-4ca2-ba12-948c659cfe5b",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Germany W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "team2": {
-      "name": "Brazil W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png"
-    },
-    "kickoff_date": "2025-06-07",
-    "kickoff_time": "23:30",
-    "match_date": "2025-06-07",
-    "match_time": "23:30",
-    "infogp": "", "firstRow": 10
-  },
-  {
-    "id": "1d50ab0d-0dce-4454-96fd-3102f609aa3d",
-    "duration": 3,
-    "league": "International Friendly Matches",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Denmark",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/LaOvu-pyRqRso6uzff55XA_96x96.png"
-    },
-    "team2": {
-      "name": "Northern Ireland",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Uaq6Zrc_irttRAW_PZmsAw_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "00:00",
-    "match_date": "2025-06-08",
-    "match_time": "00:00",
-    "infogp": "", "firstRow": 11
-  },
-  {
-    "id": "ac6ab3fa-a097-4203-803c-b4c5fd0cdf85",
-    "duration": 3,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Austria",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/HwYB-wsdd6M2WmLXSkd6Sg_96x96.png"
-    },
-    "team2": {
-      "name": "Romania",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/QneSJOdYzN7b6Z_cbKQAEw_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-08",
-    "match_time": "01:45",
-    "infogp": "", "firstRow": 12
-  },
-  {
-    "id": "e74dc1d8-fab5-4818-b8f5-95878527b462",
-    "duration": 3,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Albania",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/r-Ec2eED0ce4OO-s8_uI6w_96x96.png"
-    },
-    "team2": {
-      "name": "Serbia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-08",
-    "match_time": "01:45",
-    "infogp": "", "firstRow": 13
-  },
-  {
-    "id": "d9d7c357-d9ce-4db6-b9f1-2126eb95a598",
-    "duration": 3,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Finland",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/OR16mUDJv-0yTyh-jxlaKQ_96x96.png"
-    },
-    "team2": {
-      "name": "Netherlands",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-08",
-    "match_time": "01:45",
-    "infogp": "", "firstRow": 14
-  },
-  {
-    "id": "8611a6e9-6757-4ebf-bfe6-adac425e4457",
-    "duration": 3,
-    "league": "International Friendly Matches",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Greece",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/4iCrrqHfq9zLlhOt34o7Pg_96x96.png"
-    },
-    "team2": {
-      "name": "Slovakia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/6APs2PMKgCrh97J3QEz5Yg_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-08",
-    "match_time": "01:45",
-    "infogp": "", "firstRow": 15
-  },
-  {
-    "id": "4ceeac52-bd6a-474a-9d21-6083007114f0",
-    "duration": 3,
-    "league": "International Friendly Matches",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "USA",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png"
-    },
-    "team2": {
-      "name": "Turkey",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "02:30",
-    "match_date": "2025-06-08",
-    "match_time": "02:30",
-    "infogp": "", "firstRow": 16
-  },
-  {
-    "id": "dcc55a0b-76ee-47a7-9a20-584868786523",
-    "duration": 3,
-    "league": "International Friendly Matches",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Canada",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png"
-    },
-    "team2": {
-      "name": "Ukraine",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/DQIQtK7N4yrDIqw75pxFHg_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "02:30",
-    "match_date": "2025-06-08",
-    "match_time": "02:30",
-    "infogp": "", "firstRow": 17
-  },
-  {
-    "id": "69b6c5c0-2e1a-4034-a8f3-ca2e8be235c3",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Canada W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png"
-    },
-    "team2": {
-      "name": "Japan W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "03:00",
-    "match_date": "2025-06-08",
-    "match_time": "03:00",
-    "infogp": "", "firstRow": 18
-  },
-  {
-    "id": "71b55c31-3bdf-4ee5-ba06-86886502589f",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "South Korea W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png"
-    },
-    "team2": {
-      "name": "Czech Republic W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8AluO-WxpcHtC0KKHmFgvg_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "03:00",
-    "match_date": "2025-06-08",
-    "match_time": "03:00",
-    "infogp": "", "firstRow": 19
-  },
-  {
-    "id": "731764a2-b6c6-4fb3-ae15-b97bd969aed4",
-    "duration": 3,
-    "league": "International Friendly Matches",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Mexico",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png"
-    },
-    "team2": {
-      "name": "Switzerland",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "03:00",
-    "match_date": "2025-06-08",
-    "match_time": "03:00",
-    "infogp": "", "firstRow": 20
-  },
-  {
     "id": "cd581bc4-1f1e-405c-b1d4-0bef265aec3c",
     "duration": 15,
     "league": "UFC 316",
@@ -263,25 +54,25 @@
     "kickoff_time": "05:00",
     "match_date": "2025-06-08",
     "match_time": "05:00",
-    "infogp": "", "firstRow": 21
+    "infogp": "", "firstRow": 5
   },
   {
-    "id": "2daea325-77c5-4699-9b50-a21960d1cfd6",
+    "id": "2ffcfcb8-3718-465e-8cdc-6aa133283366",
     "duration": 3,
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
-      "name": "Bulgaria W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
+      "name": "Belgium",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png"
     },
     "team2": {
-      "name": "Serbia W",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png"
+      "name": "Poland",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png"
     },
     "kickoff_date": "2025-06-08",
-    "kickoff_time": "06:30",
+    "kickoff_time": "10:30",
     "match_date": "2025-06-08",
-    "match_time": "06:30",
-    "infogp": "", "firstRow": 22
+    "match_time": "10:30",
+    "infogp": "", "firstRow": 6
   }
 ]
