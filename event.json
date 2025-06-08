@@ -1,43 +1,5 @@
 [
   {
-    "id": "4e615964-f161-489e-94a9-e98fc08b1eea",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "China",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png"
-    },
-    "team2": {
-      "name": "Turkiye",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "18:30",
-    "match_date": "2025-06-08",
-    "match_time": "18:30",
-    "infogp": "", "firstRow": 9
-  },
-  {
-    "id": "162f52cc-1d54-48c2-8a46-2b6fffc232ec",
-    "duration": 4,
-    "league": "UEFA Nations League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Germany",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "team2": {
-      "name": "France",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "20:00",
-    "match_date": "2025-06-08",
-    "match_time": "19:30",
-    "infogp": "", "firstRow": 10
-  },
-  {
     "id": "b1aa591b-df01-4469-93fe-ca5d64ba0d6e",
     "duration": 3,
     "league": "Volleyball Nations League",
