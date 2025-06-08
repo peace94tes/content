@@ -35,7 +35,7 @@
     "kickoff_time": "14:40",
     "match_date": "2025-06-06",
     "match_time": "12:00",
-    "infogp": "<br><br><br>Moto2 Race | 17:15 WIB<br>MotoGP Race | 19:00 WIB", "firstRow": 4
+    "infogp": "MotoGP Race | 19:00 WIB", "firstRow": 4
   },
   {
     "id": "cd581bc4-1f1e-405c-b1d4-0bef265aec3c",
@@ -55,63 +55,6 @@
     "match_date": "2025-06-08",
     "match_time": "05:00",
     "infogp": "", "firstRow": 5
-  },
-  {
-    "id": "2ffcfcb8-3718-465e-8cdc-6aa133283366",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Belgium",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png"
-    },
-    "team2": {
-      "name": "Poland",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "10:30",
-    "match_date": "2025-06-08",
-    "match_time": "10:30",
-    "infogp": "", "firstRow": 6
-  },
-  {
-    "id": "ae415b85-ec2c-4347-9cb8-4e4f97b1b038",
-    "duration": 3,
-    "league": "Volleyball Asian Cup",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Philippines",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/SMAJOAEhYfXLrR5oOCzaYg_96x96.png"
-    },
-    "team2": {
-      "name": "Indonesia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "12:30",
-    "match_date": "2025-06-08",
-    "match_time": "12:30",
-    "infogp": "", "firstRow": 7
-  },
-  {
-    "id": "a09ffa3f-36b9-41ae-abc5-47361714ad78",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "France",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
-    },
-    "team2": {
-      "name": "Thailand",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png"
-    },
-    "kickoff_date": "2025-06-08",
-    "kickoff_time": "14:00",
-    "match_date": "2025-06-08",
-    "match_time": "14:00",
-    "infogp": "", "firstRow": 8
   },
   {
     "id": "4e615964-f161-489e-94a9-e98fc08b1eea",
