@@ -39,7 +39,7 @@
   },
   {
     "id": "8f272724-74c9-4938-88b8-048f77927d19",
-    "duration": 2.17,
+    "duration": 3,
     "league": "World Cup Qual. UEFA",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -53,7 +53,7 @@
     "kickoff_date": "2025-06-10",
     "kickoff_time": "01:45",
     "match_date": "2025-06-10",
-    "match_time": "01:45",
+    "match_time": "01:15",
     "infogp": "", "firstRow": 8
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "id": "a1b9ad84-10df-46a1-bc4e-61fde8718a0d",
-    "duration": 2.17,
+    "duration": 3,
     "league": "World Cup Qual. UEFA",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -110,7 +110,7 @@
     "kickoff_date": "2025-06-10",
     "kickoff_time": "01:45",
     "match_date": "2025-06-10",
-    "match_time": "01:45",
+    "match_time": "01:15",
     "infogp": "", "firstRow": 11
   }
 ]
