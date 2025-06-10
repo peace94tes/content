@@ -1,116 +1,21 @@
 [
   {
-    "id": "f1644728-93a7-49f5-b5e5-2935a37535bb",
-    "duration": 2.17,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Kazakhstan",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/GWILg_KpGKpR9VHX4Q9SpQ_96x96.png"
-    },
-    "team2": {
-      "name": "North Macedonia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/JCU93J9GUw6QWkH-RBNulg_96x96.png"
-    },
-    "kickoff_date": "2025-06-09",
-    "kickoff_time": "21:00",
-    "match_date": "2025-06-09",
-    "match_time": "21:00",
-    "infogp": "", "firstRow": 6
-  },
-  {
-    "id": "4f4dd147-a1df-408a-b988-2603a425cf3c",
-    "duration": 2.17,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Estonia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h6HrOWT3PZsxVX3m5B9E9w_96x96.png"
-    },
-    "team2": {
-      "name": "Norway",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/lLDKax72TPgU_Hcj0W-DOg_96x96.png"
-    },
-    "kickoff_date": "2025-06-10",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-10",
-    "match_time": "01:45",
-    "infogp": "", "firstRow": 7
-  },
-  {
-    "id": "8f272724-74c9-4938-88b8-048f77927d19",
+    "id": "f802764f-7e7e-443e-a240-4600ddeba451",
     "duration": 3,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
+    "league": "World Cup Qualification AFC",
+    "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
-      "name": "Belgium",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png"
+      "name": "Japan",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_96x96.png"
     },
     "team2": {
-      "name": "Wales",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1JjnDm6Es30LryHzbudyEw_96x96.png"
+      "name": "Indonesia",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png"
     },
     "kickoff_date": "2025-06-10",
-    "kickoff_time": "01:45",
+    "kickoff_time": "17:35",
     "match_date": "2025-06-10",
-    "match_time": "01:15",
-    "infogp": "", "firstRow": 8
-  },
-  {
-    "id": "78120545-7aac-4926-b4a5-3f7e126fb51d",
-    "duration": 2.17,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Faroe Islands",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/scK6O1E7hnXKs8sslPbG3A_96x96.png"
-    },
-    "team2": {
-      "name": "Gibraltar",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/2Um-MqOV3Z_IuTtGfoeTIg_96x96.png"
-    },
-    "kickoff_date": "2025-06-10",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-10",
-    "match_time": "01:45",
-    "infogp": "", "firstRow": 9
-  },
-  {
-    "id": "4f6383af-8393-4db0-93f6-f3b426ad1786",
-    "duration": 3,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Italy",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
-    },
-    "team2": {
-      "name": "Moldova",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/ze_l59X1MjqqpEe0Re16cw_96x96.png"
-    },
-    "kickoff_date": "2025-06-10",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-10",
-    "match_time": "01:15",
-    "infogp": "", "firstRow": 10
-  },
-  {
-    "id": "a1b9ad84-10df-46a1-bc4e-61fde8718a0d",
-    "duration": 3,
-    "league": "World Cup Qual. UEFA",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Croatia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png"
-    },
-    "team2": {
-      "name": "Czech Republic",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8AluO-WxpcHtC0KKHmFgvg_96x96.png"
-    },
-    "kickoff_date": "2025-06-10",
-    "kickoff_time": "01:45",
-    "match_date": "2025-06-10",
-    "match_time": "01:15",
-    "infogp": "", "firstRow": 11
+    "match_time": "17:05",
+    "infogp": "", "firstRow": 3
   }
 ]
