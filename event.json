@@ -1,43 +1,5 @@
 [
   {
-    "id": "e769c58d-e716-453a-853d-470aeac09393",
-    "duration": 2.17,
-    "league": "World Cup Qual. AFC",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "South Korea",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png"
-    },
-    "team2": {
-      "name": "Kuwait",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Rj-XKkiRUEQYkJMMsrhM_A_96x96.png"
-    },
-    "kickoff_date": "2025-06-10",
-    "kickoff_time": "18:00",
-    "match_date": "2025-06-10",
-    "match_time": "18:00",
-    "infogp": "", "firstRow": 4
-  },
-  {
-    "id": "16ff12a7-45bd-46e9-83e3-7e3dd375afbd",
-    "duration": 2.17,
-    "league": "World Cup Qual. AFC",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "China",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png"
-    },
-    "team2": {
-      "name": "Bahrain",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/HUez63n7xzBx0v__6EfsTA_96x96.png"
-    },
-    "kickoff_date": "2025-06-10",
-    "kickoff_time": "18:00",
-    "match_date": "2025-06-10",
-    "match_time": "18:00",
-    "infogp": "", "firstRow": 5
-  },
-  {
     "id": "3fa600ba-09f6-43d8-ae53-f3c8f9617916",
     "duration": 2.17,
     "league": "AFC Asian Cup Qual.",
@@ -96,7 +58,7 @@
   },
   {
     "id": "c9e24f48-bdbc-4052-a8a1-a49d014b0b80",
-    "duration": 2.17,
+    "duration": 3,
     "league": "World Cup Qual. AFC",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -110,7 +72,7 @@
     "kickoff_date": "2025-06-10",
     "kickoff_time": "20:45",
     "match_date": "2025-06-10",
-    "match_time": "20:45",
+    "match_time": "20:15",
     "infogp": "", "firstRow": 9
   },
   {
