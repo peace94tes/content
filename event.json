@@ -77,7 +77,7 @@
   },
   {
     "id": "4767814e-68da-4b1d-bf08-cfb035fa39cb",
-    "duration": 2.17,
+    "duration": 3,
     "league": "AFC Asian Cup Qual.",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -91,12 +91,12 @@
     "kickoff_date": "2025-06-10",
     "kickoff_time": "22:00",
     "match_date": "2025-06-10",
-    "match_time": "22:00",
+    "match_time": "21:30",
     "infogp": "", "firstRow": 10
   },
   {
     "id": "d1e72345-f312-43f6-95a4-e6700a1ad223",
-    "duration": 2.17,
+    "duration": 3,
     "league": "World Cup Qual. AFC",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -110,7 +110,7 @@
     "kickoff_date": "2025-06-10",
     "kickoff_time": "23:00",
     "match_date": "2025-06-10",
-    "match_time": "23:00",
+    "match_time": "22:30",
     "infogp": "", "firstRow": 11
   },
   {
