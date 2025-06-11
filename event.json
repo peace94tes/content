@@ -43,11 +43,11 @@
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
-      "name": "China W",
+      "name": "China",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png"
     },
     "team2": {
-      "name": "Japan W",
+      "name": "Japan",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_96x96.png"
     },
     "kickoff_date": "2025-06-11",
@@ -81,11 +81,11 @@
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
-      "name": "Serbia W",
+      "name": "Serbia",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png"
     },
     "team2": {
-      "name": "Turkey W",
+      "name": "Turkey",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
     },
     "kickoff_date": "2025-06-11",
@@ -100,11 +100,11 @@
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
-      "name": "Bulgaria W",
+      "name": "Bulgaria",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
     },
     "team2": {
-      "name": "Italy W",
+      "name": "Italy",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
     },
     "kickoff_date": "2025-06-11",
