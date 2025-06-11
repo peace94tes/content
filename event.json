@@ -20,15 +20,15 @@
   },
   {
     "id": "dadfeb5f-caf3-4079-96eb-27b8ffdb5f3b",
-    "duration": 2.17,
+    "duration": 3,
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
-      "name": "Poland W",
+      "name": "Poland",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png"
     },
     "team2": {
-      "name": "Netherlands W",
+      "name": "Netherlands",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png"
     },
     "kickoff_date": "2025-06-11",
@@ -39,7 +39,7 @@
   },
   {
     "id": "8e44b44a-a734-4b14-a2cc-fc7b668290ba",
-    "duration": 2.17,
+    "duration": 3,
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
@@ -58,7 +58,7 @@
   },
   {
     "id": "a0e20884-bf6c-41db-9cb8-16855c086747",
-    "duration": 2.17,
+    "duration": 3,
     "league": "Volleyball Asian Cup",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
@@ -77,7 +77,7 @@
   },
   {
     "id": "f0e60957-f38e-4313-ab32-61e385dfce2b",
-    "duration": 2.17,
+    "duration": 3,
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
@@ -96,7 +96,7 @@
   },
   {
     "id": "b576e3a4-4508-47c6-9764-3e6f7f56e4fa",
-    "duration": 2.17,
+    "duration": 3,
     "league": "Volleyball Nations League",
     "icon": "https://i.imgur.com/HzZe9uC.png",
     "team1": {
