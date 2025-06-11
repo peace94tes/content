@@ -5,11 +5,11 @@
     "league": "World Cup Qual. CONMEBOL",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
-      "name": "Peru",
+      "name": "Peru ",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1ZizIpPB_eo-u8zYYjnFcg_96x96.png"
     },
     "team2": {
-      "name": "Ecuador",
+      "name": "Ecuador ",
       "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/AKqvkBpIyr-iLOK7Ig7-yQ_96x96.png"
     },
     "kickoff_date": "2025-06-11",
