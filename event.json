@@ -343,7 +343,7 @@
   },
   {
     "id": "45d17ff0-a1ca-4d98-990d-72d181111028",
-    "duration": 2.17,
+    "duration": 3,
     "league": "World Cup Qual. CONMEBOL",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -357,7 +357,7 @@
     "kickoff_date": "2025-06-11",
     "kickoff_time": "07:45",
     "match_date": "2025-06-11",
-    "match_time": "07:45",
+    "match_time": "07:15",
     "infogp": "", "firstRow": 29
   },
   {
