@@ -38,63 +38,6 @@
     "infogp": "FP2 | 15:00 WIB", "firstRow": 6
   },
   {
-    "id": "610473dc-23f4-49cf-b4de-0b2a6bf07ecc",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Japan",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_96x96.png"
-    },
-    "team2": {
-      "name": "Serbia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png"
-    },
-    "kickoff_date": "2025-06-13",
-    "kickoff_time": "16:00",
-    "match_date": "2025-06-13",
-    "match_time": "16:00",
-    "infogp": "", "firstRow": 7
-  },
-  {
-    "id": "8e2f47c1-933f-4c6e-bcd3-c6c6fd4c27b3",
-    "duration": 3,
-    "league": "K League 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Gangwon",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/DuaOwMOLBfwzaP_meKLaEg_96x96.png"
-    },
-    "team2": {
-      "name": "Jeonbuk Motors",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/5JL1pqxK8ydx8YzPIWTCKg_96x96.png"
-    },
-    "kickoff_date": "2025-06-13",
-    "kickoff_time": "17:30",
-    "match_date": "2025-06-13",
-    "match_time": "17:30",
-    "infogp": "", "firstRow": 8
-  },
-  {
-    "id": "107c0367-8143-4713-b878-587a145b1194",
-    "duration": 3,
-    "league": "K League 1",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Gwangju",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/NWXV7bdDxjLz4zZk9bhoKg_96x96.png"
-    },
-    "team2": {
-      "name": "Seoul",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/tNdEyglQLcMMXoA7f-6ghA_96x96.png"
-    },
-    "kickoff_date": "2025-06-13",
-    "kickoff_time": "17:30",
-    "match_date": "2025-06-13",
-    "match_time": "17:30",
-    "infogp": "", "firstRow": 9
-  },
-  {
     "id": "1860baa6-d507-4605-9eed-be989892f2e0",
     "duration": 3,
     "league": "Volleyball Nations League",
