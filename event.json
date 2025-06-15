@@ -38,25 +38,6 @@
     "infogp": "Qualifying | 03:00 WIB", "firstRow": 4
   },
   {
-    "id": "ea44d79b-17e3-4eec-8ae7-18bace739def",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Canada",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png"
-    },
-    "team2": {
-      "name": "France",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "03:30",
-    "match_date": "2025-06-15",
-    "match_time": "03:30",
-    "infogp": "", "firstRow": 18
-  },
-  {
     "id": "dd3162e0-cec5-4665-8e96-85a716132e64",
     "duration": 10,
     "league": "UFC Fight Night",
