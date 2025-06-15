@@ -38,120 +38,6 @@
     "infogp": "Race | 01:00 WIB", "firstRow": 4
   },
   {
-    "id": "4dd446f0-cf8a-4d48-b25a-5556b5699626",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "China",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png"
-    },
-    "team2": {
-      "name": "Turkey",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "14:00",
-    "match_date": "2025-06-15",
-    "match_time": "14:00",
-    "infogp": "", "firstRow": 12
-  },
-  {
-    "id": "a050fc61-c77f-42a1-806c-8bdead53af02",
-    "duration": 2.17,
-    "league": "J1 League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Tokyo Verdy",
-      "logo": "https://tmssl.akamaized.net/images/wappen/head/3734.png?lm=1707218030"
-    },
-    "team2": {
-      "name": "Kashiwa Reysol",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/AvriFaF_XE1XxXKB9RJqLw_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "16:00",
-    "match_date": "2025-06-15",
-    "match_time": "16:00",
-    "infogp": "", "firstRow": 13
-  },
-  {
-    "id": "23cca3d3-a2c5-4eac-8232-f95b48155e4a",
-    "duration": 2.17,
-    "league": "J1 League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Vissel Kobe",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/BZUmVsyGi03lHJ0KfZ7wUA_96x96.png"
-    },
-    "team2": {
-      "name": "Nagoya Grampus",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/CrmdMPWZ2i17k-0LByWBow_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "16:00",
-    "match_date": "2025-06-15",
-    "match_time": "16:00",
-    "infogp": "", "firstRow": 14
-  },
-  {
-    "id": "d8d38118-d939-4c22-8f2c-696511091d12",
-    "duration": 2.17,
-    "league": "J1 League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Fagiano Okayama",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/OncdfTKKDt6vezD_-qNZWA_96x96.png"
-    },
-    "team2": {
-      "name": "Avispa Fukuoka",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/tw1kqIgPORPxSYI1gl6_wg_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "16:00",
-    "match_date": "2025-06-15",
-    "match_time": "16:00",
-    "infogp": "", "firstRow": 15
-  },
-  {
-    "id": "abf3ab08-eec6-4f3b-a663-2fd1343ec4f5",
-    "duration": 2.17,
-    "league": "J1 League",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Shimizu S-Pulse",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/3lXhYT1KJJ15R6ywAHQ7QA_96x96.png"
-    },
-    "team2": {
-      "name": "Gamba Osaka",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/wj1tBH6I54UBBsO6YXe6VA_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "16:30",
-    "match_date": "2025-06-15",
-    "match_time": "16:30",
-    "infogp": "", "firstRow": 16
-  },
-  {
-    "id": "523ff972-89fb-4acb-857d-f9d84ddfde26",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Poland",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png"
-    },
-    "team2": {
-      "name": "Serbia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "18:00",
-    "match_date": "2025-06-15",
-    "match_time": "18:00",
-    "infogp": "", "firstRow": 10
-  },
-  {
     "id": "89500dcb-c6d4-4b44-93e2-a8f1fbfaa878",
     "duration": 3,
     "league": "Volleyball Nations League",
@@ -205,7 +91,7 @@
     "kickoff_date": "2025-06-15",
     "kickoff_time": "23:00",
     "match_date": "2025-06-15",
-    "match_time": "23:00",
+    "match_time": "22:30",
     "infogp": "", "firstRow": 13
   },
   {
@@ -262,7 +148,7 @@
     "kickoff_date": "2025-06-16",
     "kickoff_time": "02:00",
     "match_date": "2025-06-16",
-    "match_time": "02:00",
+    "match_time": "01:30",
     "infogp": "", "firstRow": 16
   },
   {
