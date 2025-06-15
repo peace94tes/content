@@ -12,11 +12,11 @@
       "name": "WSBK",
       "logo": "https://i.imgur.com/UC3SpBb.png"
     },
-    "kickoff_date": "2025-06-14",
-    "kickoff_time": "09:00",
+    "kickoff_date": "2025-06-15",
+    "kickoff_time": "14:00",
     "match_date": "2025-06-13",
     "match_time": "14:00",
-    "infogp": "Race 1 | 14:00 WIB", "firstRow": 3
+    "infogp": "Race 2 | 19:00 WIB", "firstRow": 3
   },
   {
     "id": "85e0e2a7-82a7-4880-b11c-0bd728dc7257",
@@ -31,11 +31,11 @@
       "name": "Formula 1",
       "logo": "https://i.imgur.com/b46oyE7.png"
     },
-    "kickoff_date": "2025-06-14",
-    "kickoff_time": "23:30",
+    "kickoff_date": "2025-06-16",
+    "kickoff_time": "01:00",
     "match_date": "2025-06-14",
     "match_time": "00:30",
-    "infogp": "Qualifying | 03:00 WIB", "firstRow": 4
+    "infogp": "Race | 01:00 WIB", "firstRow": 4
   },
   {
     "id": "dd3162e0-cec5-4665-8e96-85a716132e64",
