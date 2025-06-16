@@ -1,230 +1,116 @@
 [
   {
-    "id": "40a428dc-992f-4a61-a0d7-4fa93c6fcace",
-    "duration": 1000,
-    "league": "Pirelli Emilia-Romagna",
-    "icon": "https://i.imgur.com/hYCzOBd.png",
-    "team1": {
-      "name": "WSBK",
-      "logo": "https://i.imgur.com/UC3SpBb.png"
-    },
-    "team2": {
-      "name": "WSBK",
-      "logo": "https://i.imgur.com/UC3SpBb.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "14:00",
-    "match_date": "2025-06-13",
-    "match_time": "14:00",
-    "infogp": "Race 2 | 19:00 WIB", "firstRow": 3
-  },
-  {
-    "id": "85e0e2a7-82a7-4880-b11c-0bd728dc7257",
-    "duration": 1000,
-    "league": "Canadian Grand Prix 2025",
-    "icon": "https://i.imgur.com/hYCzOBd.png",
-    "team1": {
-      "name": "Formula 1",
-      "logo": "https://i.imgur.com/b46oyE7.png"
-    },
-    "team2": {
-      "name": "Formula 1",
-      "logo": "https://i.imgur.com/b46oyE7.png"
-    },
-    "kickoff_date": "2025-06-16",
-    "kickoff_time": "01:00",
-    "match_date": "2025-06-14",
-    "match_time": "00:30",
-    "infogp": "Race | 01:00 WIB", "firstRow": 4
-  },
-  {
-    "id": "89500dcb-c6d4-4b44-93e2-a8f1fbfaa878",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Brazil",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png"
-    },
-    "team2": {
-      "name": "Slovenia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/eoYnHnSwIqfFIeAoWwLEIg_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "20:00",
-    "match_date": "2025-06-15",
-    "match_time": "20:00",
-    "infogp": "", "firstRow": 11
-  },
-  {
-    "id": "f6d1104a-2589-4171-988d-b9d2b9901975",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Argentina",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png"
-    },
-    "team2": {
-      "name": "Italy",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "22:00",
-    "match_date": "2025-06-15",
-    "match_time": "22:00",
-    "infogp": "", "firstRow": 12
-  },
-  {
-    "id": "4d4f3a8c-1023-4203-9cd9-078c028f32a3",
+    "id": "15720854-4899-4f3f-a6b4-7ffee5f9b51c",
     "duration": 3,
     "league": "FIFA Club World Cup",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
-      "name": "Bayern Munchen",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+      "name": "Chelsea",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png"
     },
     "team2": {
-      "name": "Auckland City",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/p_QnXPAoy8lpWCMGjvbkVg_96x96.png"
+      "name": "Los Angeles FC",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/waD0z1CWx6_r4UT_hgb7nA_96x96.png"
     },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "23:00",
-    "match_date": "2025-06-15",
-    "match_time": "22:30",
-    "infogp": "", "firstRow": 13
-  },
-  {
-    "id": "1ad3fc46-de1c-4420-8a46-512781ebf725",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Ukraine",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/DQIQtK7N4yrDIqw75pxFHg_96x96.png"
-    },
-    "team2": {
-      "name": "Iran",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1oq8Fy7ETpBpZNaCA22ArQ_96x96.png"
-    },
-    "kickoff_date": "2025-06-15",
-    "kickoff_time": "23:30",
-    "match_date": "2025-06-15",
-    "match_time": "23:30",
-    "infogp": "", "firstRow": 14
-  },
-  {
-    "id": "7c519e37-6676-4b9c-b036-e8ecf52a38d1",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Germany",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "team2": {
-      "name": "France",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
-    },
-    "kickoff_date": "2025-06-16",
-    "kickoff_time": "01:30",
-    "match_date": "2025-06-16",
-    "match_time": "01:30",
-    "infogp": "", "firstRow": 15
-  },
-  {
-    "id": "46acfd2b-00b0-4d5c-897e-138482f96a81",
-    "duration": 3,
-    "league": "FIFA Club World Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "PSG",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png"
-    },
-    "team2": {
-      "name": "Atletico Madrid",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png"
-    },
-    "kickoff_date": "2025-06-16",
+    "kickoff_date": "2025-06-17",
     "kickoff_time": "02:00",
-    "match_date": "2025-06-16",
-    "match_time": "01:30",
-    "infogp": "", "firstRow": 16
+    "match_date": "2025-06-17",
+    "match_time": "02:00",
+    "infogp": "", "firstRow": 4
   },
   {
-    "id": "e94e5b9c-fe0b-4062-a05f-4be86d9d76dd",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Cuba",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/qHi4LQ8mu22Mgcc1GebiVQ_96x96.png"
-    },
-    "team2": {
-      "name": "USA",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png"
-    },
-    "kickoff_date": "2025-06-16",
-    "kickoff_time": "03:00",
-    "match_date": "2025-06-16",
-    "match_time": "03:00",
-    "infogp": "", "firstRow": 17
-  },
-  {
-    "id": "03e8a696-95d5-457a-803c-d3d3262b3026",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Bulgaria",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
-    },
-    "team2": {
-      "name": "Canada",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png"
-    },
-    "kickoff_date": "2025-06-16",
-    "kickoff_time": "05:00",
-    "match_date": "2025-06-16",
-    "match_time": "05:00",
-    "infogp": "", "firstRow": 18
-  },
-  {
-    "id": "8ce0d843-d737-4706-bf93-6cda3a5d9fa2",
+    "id": "119c7c65-a6d7-4665-8614-25ba351c65d0",
     "duration": 3,
     "league": "FIFA Club World Cup",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
-      "name": "Palmeiras",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png"
+      "name": "Boca Juniors",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/YO1impuFJT2hex6wvCd9Pw_96x96.png"
     },
     "team2": {
-      "name": "Porto",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+      "name": "Benfica",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
     },
-    "kickoff_date": "2025-06-16",
+    "kickoff_date": "2025-06-17",
     "kickoff_time": "05:00",
-    "match_date": "2025-06-16",
+    "match_date": "2025-06-17",
     "match_time": "05:00",
-    "infogp": "", "firstRow": 19
+    "infogp": "", "firstRow": 5
   },
   {
-    "id": "0b25dec4-292e-47e4-8bc7-aadd3ce5be57",
+    "id": "82e59210-65a6-433f-b9eb-a60f6531f827",
     "duration": 3,
     "league": "FIFA Club World Cup",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
-      "name": "Botafogo",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
+      "name": "Flamengo",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/orE554NToSkH6nuwofe7Yg_96x96.png"
     },
     "team2": {
-      "name": "Seattle Sounders FC",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/lq3JZXf-QlWiTuQKJosnAQ_96x96.png"
+      "name": "ES Tunis",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Kf32x8gh5SCMEqvKjVGLfg_96x96.png"
     },
-    "kickoff_date": "2025-06-16",
-    "kickoff_time": "09:00",
-    "match_date": "2025-06-16",
-    "match_time": "09:00",
-    "infogp": "", "firstRow": 20
+    "kickoff_date": "2025-06-17",
+    "kickoff_time": "08:00",
+    "match_date": "2025-06-17",
+    "match_time": "08:00",
+    "infogp": "", "firstRow": 6
+  },
+  {
+    "id": "02b08488-7f91-4151-a28c-a491edc3b204",
+    "duration": 3,
+    "league": "K League 1",
+    "icon": "https://i.imgur.com/oJfBO55.png",
+    "team1": {
+      "name": "Seoul",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/tNdEyglQLcMMXoA7f-6ghA_96x96.png"
+    },
+    "team2": {
+      "name": "Gangwon",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/DuaOwMOLBfwzaP_meKLaEg_96x96.png"
+    },
+    "kickoff_date": "2025-06-17",
+    "kickoff_time": "17:30",
+    "match_date": "2025-06-17",
+    "match_time": "17:30",
+    "infogp": "", "firstRow": 7
+  },
+  {
+    "id": "80ff704e-2393-438d-8e81-7b57709e2b28",
+    "duration": 3,
+    "league": "K League 1",
+    "icon": "https://i.imgur.com/oJfBO55.png",
+    "team1": {
+      "name": "Jeonbuk Motors",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/5JL1pqxK8ydx8YzPIWTCKg_96x96.png"
+    },
+    "team2": {
+      "name": "Suwon FC",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Y8JV0tP0MmeNRLP02dN-uA_96x96.png"
+    },
+    "kickoff_date": "2025-06-17",
+    "kickoff_time": "17:30",
+    "match_date": "2025-06-17",
+    "match_time": "17:30",
+    "infogp": "", "firstRow": 8
+  },
+  {
+    "id": "20f903ab-5188-437b-a464-51c9dd64696e",
+    "duration": 3,
+    "league": "K League 1",
+    "icon": "https://i.imgur.com/oJfBO55.png",
+    "team1": {
+      "name": "Daegu",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/g4u4AYVjPG8lBD5nFrKqdw_96x96.png"
+    },
+    "team2": {
+      "name": "Pohang Steelers",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/oHFLIPiY-JeABv5EXD8-5Q_96x96.png"
+    },
+    "kickoff_date": "2025-06-17",
+    "kickoff_time": "17:30",
+    "match_date": "2025-06-17",
+    "match_time": "17:30",
+    "infogp": "", "firstRow": 9
   }
 ]
