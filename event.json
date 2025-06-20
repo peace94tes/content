@@ -19,25 +19,6 @@
     "infogp": "Practice | 20:00 WIB", "firstRow": 3
   },
   {
-    "id": "30c38818-1263-4ac3-ab3c-f6f37dde75bb",
-    "duration": 3,
-    "league": "Women's Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Bulgaria",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
-    },
-    "team2": {
-      "name": "Czech Republic",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8AluO-WxpcHtC0KKHmFgvg_96x96.png"
-    },
-    "kickoff_date": "2025-06-20",
-    "kickoff_time": "16:00",
-    "match_date": "2025-06-20",
-    "match_time": "16:00",
-    "infogp": "", "firstRow": 4
-  },
-  {
     "id": "9b597929-cfd3-46ea-b085-c232a723ca57",
     "duration": 3,
     "league": "Women's Volleyball Nations League",
