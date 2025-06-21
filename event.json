@@ -228,6 +228,25 @@
     "infogp": "", "firstRow": 16
   },
   {
+    "id": "5e922285-4e72-41fe-a975-9cb5fb53a438",
+    "duration": 3,
+    "league": "Volleyball Asian Cup",
+    "icon": "https://i.imgur.com/HzZe9uC.png",
+    "team1": {
+      "name": "Indonesia",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png"
+    },
+    "team2": {
+      "name": "Pakistan",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png"
+    },
+    "kickoff_date": "2025-06-21",
+    "kickoff_time": "18:00",
+    "match_date": "2025-06-21",
+    "match_time": "18:00",
+    "infogp": "", "firstRow": 57
+  },
+  {
     "id": "ebd43acd-bb76-435a-8687-f9e3d90c098c",
     "duration": 3,
     "league": "Women's Volleyball Nations League",
