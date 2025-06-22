@@ -209,6 +209,25 @@
     "infogp": "", "firstRow": 15
   },
   {
+    "id": "5bb678b0-c653-42c4-85dd-30b8a08ee62b",
+    "duration": 3,
+    "league": "AVC Nations Cup",
+    "icon": "https://i.imgur.com/HzZe9uC.png",
+    "team1": {
+      "name": "Indonesia",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png"
+    },
+    "team2": {
+      "name": "Vietnam",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/IUYV_ZAMxDdabQPzSpTJtg_96x96.png"
+    },
+    "kickoff_date": "2025-06-22",
+    "kickoff_time": "23:00",
+    "match_date": "2025-06-22",
+    "match_time": "23:00",
+    "infogp": "", "firstRow": 4
+  },
+  {
     "id": "e7c80707-0ab6-4ffa-8318-ea372b01a2b9",
     "duration": 3,
     "league": "FIFA Club World Cup",
