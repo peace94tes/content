@@ -1,7 +1,7 @@
 [
   {
     "id": "6676aa51-8fc1-45fa-8d08-29bf5fbd62d2",
-    "duration": 1000,
+    "duration": 4,
     "league": "MotoGP Italy 2025",
     "icon": "https://i.imgur.com/hYCzOBd.png",
     "team1": {
@@ -15,7 +15,7 @@
     "kickoff_date": "2025-06-22",
     "kickoff_time": "14:40",
     "match_date": "2025-06-22",
-    "match_time": "14:40",
+    "match_time": "19:50",
     "infogp": "Race Moto2/GP | 17:00/19:00 WIB", "firstRow": 3
   },
   {
