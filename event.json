@@ -1,24 +1,5 @@
 [
   {
-    "id": "751ef68b-d969-4e12-aafc-689ba0f05995",
-    "duration": 3,
-    "league": "Women's Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Bulgaria",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
-    },
-    "team2": {
-      "name": "Thailand",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png"
-    },
-    "kickoff_date": "2025-06-22",
-    "kickoff_time": "12:00",
-    "match_date": "2025-06-22",
-    "match_time": "12:00",
-    "infogp": "", "firstRow": 3
-  },
-  {
     "id": "6676aa51-8fc1-45fa-8d08-29bf5fbd62d2",
     "duration": 1000,
     "league": "MotoGP Italy 2025",
@@ -35,7 +16,7 @@
     "kickoff_time": "14:40",
     "match_date": "2025-06-22",
     "match_time": "14:40",
-    "infogp": "Race | 16, 17, 19:00 WIB", "firstRow": 5
+    "infogp": "Race Moto2/GP | 17:00 WIB, 19:00 WIB", "firstRow": 3
   },
   {
     "id": "20183ff1-1ccf-4b29-9eb3-a9ae6fb309f1",
