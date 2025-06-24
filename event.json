@@ -19,25 +19,6 @@
     "infogp": "", "firstRow": 3
   },
   {
-    "id": "abf3ab08-eec6-4f3b-a663-2fd1343ec4f5",
-    "duration": 2.17,
-    "league": "UEFA U19 European Championship",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "France U19",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
-    },
-    "team2": {
-      "name": "Portugal U19",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png"
-    },
-    "kickoff_date": "2025-06-25",
-    "kickoff_time": "01:00",
-    "match_date": "2025-06-25",
-    "match_time": "01:00",
-    "infogp": "", "firstRow": 4
-  },
-  {
     "id": "4c92c16e-2b1d-4333-9a3d-6a2d4de75ea8",
     "duration": 3,
     "league": "FIFA Club World Cup",
