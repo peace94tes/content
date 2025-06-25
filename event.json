@@ -16,7 +16,7 @@
     "kickoff_time": "16:30",
     "match_date": "2025-06-25",
     "match_time": "16:30",
-    "infogp": "", firstRow": 3
+    "infogp": "", "firstRow": 3
   },
   {
     "id": "ecb17525-7932-4c11-ad4a-53e156630564",
@@ -35,7 +35,7 @@
     "kickoff_time": "17:00",
     "match_date": "2025-06-25",
     "match_time": "17:00",
-    "infogp": "", firstRow": 4
+    "infogp": "", "firstRow": 4
   },
   {
     "id": "f588f951-3c28-44bc-b121-16b7cfc5b78f",
@@ -54,7 +54,7 @@
     "kickoff_time": "17:00",
     "match_date": "2025-06-25",
     "match_time": "17:00",
-    "infogp": "", firstRow": 5
+    "infogp": "", "firstRow": 5
   },
   {
     "id": "427dff30-da1c-44d7-b2c4-cbb5f4052f6e",
@@ -73,7 +73,7 @@
     "kickoff_time": "17:30",
     "match_date": "2025-06-25",
     "match_time": "17:30",
-    "infogp": "", firstRow": 6
+    "infogp": "", "firstRow": 6
   },
   {
     "id": "1287f315-2fff-4da4-beb2-d7fe43d4468e",
@@ -92,7 +92,7 @@
     "kickoff_time": "18:00",
     "match_date": "2025-06-25",
     "match_time": "18:00",
-    "infogp": "", firstRow": 7
+    "infogp": "", "firstRow": 7
   },
   {
     "id": "5b6ba959-4d07-4ddb-a095-17af81811639",
@@ -111,7 +111,7 @@
     "kickoff_time": "20:00",
     "match_date": "2025-06-25",
     "match_time": "20:00",
-    "infogp": "", firstRow": 8
+    "infogp": "", "firstRow": 8
   },
   {
     "id": "5a490f29-996f-4728-b3ab-01b65c272c43",
@@ -130,7 +130,7 @@
     "kickoff_time": "21:30",
     "match_date": "2025-06-25",
     "match_time": "21:30",
-    "infogp": "", firstRow": 10
+    "infogp": "", "firstRow": 10
   },
   {
     "id": "5fba27ca-fe8f-4741-a6f2-48a96334dadb",
@@ -149,7 +149,7 @@
     "kickoff_time": "02:00",
     "match_date": "2025-06-26",
     "match_time": "02:00",
-    "infogp": "", firstRow": 11
+    "infogp": "", "firstRow": 11
   },
   {
     "id": "53817719-0813-4186-9f00-925f125fcf2d",
@@ -168,7 +168,7 @@
     "kickoff_time": "02:00",
     "match_date": "2025-06-26",
     "match_time": "02:00",
-    "infogp": "", firstRow": 12
+    "infogp": "", "firstRow": 12
   },
   {
     "id": "e3901733-3fdc-4b81-8961-9f1376f2f767",
@@ -187,7 +187,7 @@
     "kickoff_time": "07:30",
     "match_date": "2025-06-26",
     "match_time": "07:30",
-    "infogp": "", firstRow": 13
+    "infogp": "", "firstRow": 13
   },
   {
     "id": "f4f571d8-495b-4258-80ac-fc911326079d",
@@ -206,7 +206,7 @@
     "kickoff_time": "08:00",
     "match_date": "2025-06-26",
     "match_time": "08:00",
-    "infogp": "", firstRow": 14
+    "infogp": "", "firstRow": 14
   },
   {
     "id": "60248c76-2a67-4524-8f20-5bd6b51da506",
@@ -225,6 +225,6 @@
     "kickoff_time": "08:00",
     "match_date": "2025-06-26",
     "match_time": "08:00",
-    "infogp": "", firstRow": 15
+    "infogp": "", "firstRow": 15
   }
 ]
