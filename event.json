@@ -1,24 +1,5 @@
 [
   {
-    "id": "120a3c44-1af7-44e1-a8c7-19d4e0183efb",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Turkey",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "team2": {
-      "name": "Slovenia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/eoYnHnSwIqfFIeAoWwLEIg_96x96.png"
-    },
-    "kickoff_date": "2025-06-25",
-    "kickoff_time": "20:00",
-    "match_date": "2025-06-25",
-    "match_time": "20:00",
-    "infogp": "", "firstRow": 7
-  },
-  {
     "id": "87631266-731e-47e2-8645-25a2f2c935d3",
     "duration": 3,
     "league": "Volleyball Nations League",
