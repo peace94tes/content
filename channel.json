@@ -144,84 +144,84 @@
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=rcti",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-rcti.png",
     "name": "RCTI",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel22",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=mnc",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-mnctv.png",
     "name": "MNCTV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel23",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=gtv",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-gtv.png",
     "name": "GTV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel24",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=inews",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-inewstv.png",
     "name": "iNEWS",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel25",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=metrotv",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",
     "name": "Metro TV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel26",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=tvone",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg",
     "name": "TV One",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel27",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=kompas",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg",
     "name": "Kompas TV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel28",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=antv",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg",
     "name": "ANTV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel29",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=rtv",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg",
     "name": "RTV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel30",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=trans7",
     "logo": "https://tv.detik.com/image/Trans7.jpg",
     "name": "Trans 7",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel31",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=transtv",
     "logo": "https://tv.detik.com/image/TransTV.jpg",
     "name": "Trans TV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel32",
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=mdtv",
     "logo": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_keojjla6/banner_mdpi.png",
     "name": "MDTV",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "id": "Channel33",
