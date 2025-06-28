@@ -95,6 +95,25 @@
     "infogp": "", "firstRow": 18
   },
   {
+    "id": "dc0cac7e-afa3-4438-89cd-fccb912c08d5",
+    "duration": 15,
+    "league": "US Open Badminton Championships",
+    "icon": "https://i.imgur.com/mD7ivNN.png",
+    "team1": {
+      "name": "Badminton",
+      "logo": "https://static.flashscore.com/res/image/data/fR6j0vld-WCDi7qq7.png"
+    },
+    "team2": {
+      "name": "Badminton",
+      "logo": "https://static.flashscore.com/res/image/data/fR6j0vld-WCDi7qq7.png"
+    },
+    "kickoff_date": "2025-06-29",
+    "kickoff_time": "00:00",
+    "match_date": "2025-06-29",
+    "match_time": "00:00",
+    "infogp": "", "firstRow": 19
+  },
+  {
     "id": "ae2d0edb-c72d-4a5b-9bc4-349b7cd71e1e",
     "duration": 3,
     "league": "Volleyball Nations League",
