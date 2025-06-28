@@ -12,7 +12,7 @@
       "name": "MotoGP",
       "logo": "https://i.imgur.com/enF2GWY.png"
     },
-    "kickoff_date": "2025-06-27",
+    "kickoff_date": "2025-06-28",
     "kickoff_time": "13:30",
     "match_date": "2025-06-27",
     "match_time": "13:30",
@@ -31,11 +31,11 @@
       "name": "Formula 1",
       "logo": "https://i.imgur.com/b46oyE7.png"
     },
-    "kickoff_date": "2025-06-27",
-    "kickoff_time": "18:30",
+    "kickoff_date": "2025-06-28",
+    "kickoff_time": "17:30",
     "match_date": "2025-06-27",
     "match_time": "18:30",
-    "infogp": "", "firstRow": 4
+    "infogp": "Practice 3 | 17:30 WIB - Qualifying | 21:00 WIB", "firstRow": 4
   },
   {
     "id": "4458ba8d-f765-43c1-b0df-95516c3a9dfd",
