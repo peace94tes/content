@@ -1,100 +1,5 @@
 [
   {
-    "id": "1a9feef6-6783-48c1-acee-1a82dfabab76",
-    "duration": 1000,
-    "league": "2025 MotoGP Netherlands",
-    "icon": "https://i.imgur.com/hYCzOBd.png",
-    "team1": {
-      "name": "MotoGP",
-      "logo": "https://i.imgur.com/enF2GWY.png"
-    },
-    "team2": {
-      "name": "MotoGP",
-      "logo": "https://i.imgur.com/enF2GWY.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "14:40",
-    "match_date": "2025-06-27",
-    "match_time": "13:30",
-    "infogp": "Moto2 Race | 17:15 WIB - MotoGP Race | 19:00 WIB", "firstRow": 3
-  },
-  {
-    "id": "00989b0e-55ba-4b42-a090-7b81aa3845fe",
-    "duration": 1000,
-    "league": "Austrian Grand Prix 2025",
-    "icon": "https://i.imgur.com/hYCzOBd.png",
-    "team1": {
-      "name": "Formula 1",
-      "logo": "https://i.imgur.com/b46oyE7.png"
-    },
-    "team2": {
-      "name": "Formula 1",
-      "logo": "https://i.imgur.com/b46oyE7.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "20:00",
-    "match_date": "2025-06-27",
-    "match_time": "18:30",
-    "infogp": "Race | 20:00 WIB", "firstRow": 4
-  },
-  {
-    "id": "c096c7b3-b8f7-4d6e-82c6-e200d16d2b0d",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Turkiye",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "team2": {
-      "name": "France",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "19:00",
-    "match_date": "2025-06-29",
-    "match_time": "19:00",
-    "infogp": "", "firstRow": 7
-  },
-  {
-    "id": "5469ba5f-ce47-4488-98c5-e8e3dfa1fdb1",
-    "duration": 2.17,
-    "league": "AFC Women's Asian Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Malaysia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/cJH9pZPURSZ68UjxxS4nKw_96x96.png"
-    },
-    "team2": {
-      "name": "Palestine",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/qxBrX9S2fwxQ5BHasGlEuQ_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "21:00",
-    "match_date": "2025-06-29",
-    "match_time": "21:00",
-    "infogp": "", "firstRow": 8
-  },
-  {
-    "id": "66118673-21e2-493c-bf04-8d52fe2fad2c",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Cuba",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/qHi4LQ8mu22Mgcc1GebiVQ_96x96.png"
-    },
-    "team2": {
-      "name": "Argentina",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "21:30",
-    "match_date": "2025-06-29",
-    "match_time": "21:30",
-    "infogp": "", "firstRow": 10
-  },
-  {
     "id": "22fec5c9-bc58-440e-ae3c-6e5ad77f4500",
     "duration": 4,
     "league": "FIFA Club World Cup",
@@ -111,7 +16,7 @@
     "kickoff_time": "23:00",
     "match_date": "2025-06-29",
     "match_time": "22:30",
-    "infogp": "", "firstRow": 11
+    "infogp": "", "firstRow": 3
   },
   {
     "id": "ffa5d837-8cff-4e0d-b244-5e863be73902",
