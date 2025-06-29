@@ -38,65 +38,8 @@
     "infogp": "Race | 20:00 WIB", "firstRow": 4
   },
   {
-    "id": "3ed83c3a-917f-47e3-a18e-a1ce2a143cf1",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Germany",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "team2": {
-      "name": "Iran",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1oq8Fy7ETpBpZNaCA22ArQ_96x96.png"
-    },
-    "kickoff_date": "2025-06-28",
-    "kickoff_time": "21:30",
-    "match_date": "2025-06-28",
-    "match_time": "21:30",
-    "infogp": "", "firstRow": 16
-  },
-  {
-    "id": "e5617a26-96ac-4835-87db-9a8389125dae",
-    "duration": 3,
-    "league": "FIFA Club World Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Palmeiras",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png"
-    },
-    "team2": {
-      "name": "Botafogo",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
-    },
-    "kickoff_date": "2025-06-28",
-    "kickoff_time": "23:00",
-    "match_date": "2025-06-28",
-    "match_time": "22:30",
-    "infogp": "", "firstRow": 17
-  },
-  {
-    "id": "24d38d3e-ca84-42c5-a134-32cfc5bd9d18",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Bulgaria",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
-    },
-    "team2": {
-      "name": "Turkiye",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "kickoff_date": "2025-06-28",
-    "kickoff_time": "23:00",
-    "match_date": "2025-06-28",
-    "match_time": "23:00",
-    "infogp": "", "firstRow": 18
-  },
-  {
     "id": "dc0cac7e-afa3-4438-89cd-fccb912c08d5",
-    "duration": 15,
+    "duration": 8,
     "league": "US Open Badminton Championships",
     "icon": "https://i.imgur.com/mD7ivNN.png",
     "team1": {
@@ -112,82 +55,6 @@
     "match_date": "2025-06-29",
     "match_time": "00:00",
     "infogp": "", "firstRow": 19
-  },
-  {
-    "id": "ae2d0edb-c72d-4a5b-9bc4-349b7cd71e1e",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Serbia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png"
-    },
-    "team2": {
-      "name": "Argentina",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "01:00",
-    "match_date": "2025-06-29",
-    "match_time": "01:00",
-    "infogp": "", "firstRow": 20
-  },
-  {
-    "id": "d36d9919-e19d-488c-8591-ae3148b7e76d",
-    "duration": 3,
-    "league": "EUFA Euro U21",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "England U21",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png"
-    },
-    "team2": {
-      "name": "Germany U21",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "02:00",
-    "match_date": "2025-06-29",
-    "match_time": "01:30",
-    "infogp": "", "firstRow": 21
-  },
-  {
-    "id": "c91f1cf2-a029-4d7a-a387-68431c89d7c8",
-    "duration": 3,
-    "league": "FIFA Club World Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Benfica",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "03:00",
-    "match_date": "2025-06-29",
-    "match_time": "02:30",
-    "infogp": "", "firstRow": 22
-  },
-  {
-    "id": "6e78d819-2ab1-4c57-9afe-9133ac60d339",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Brazil",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png"
-    },
-    "team2": {
-      "name": "Italy",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "04:00",
-    "match_date": "2025-06-29",
-    "match_time": "04:00",
-    "infogp": "", "firstRow": 23
   },
   {
     "id": "69d48e25-af54-4b43-b697-1cb5a243baaf",
@@ -226,24 +93,5 @@
     "match_date": "2025-06-29",
     "match_time": "07:30",
     "infogp": "", "firstRow": 25
-  },
-  {
-    "id": "aa64163b-76d5-4102-ac86-6ecc74c35316",
-    "duration": 2.17,
-    "league": "MLS",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Dallas",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/eV8_9jipENSUukcAlReehQ_96x96.png"
-    },
-    "team2": {
-      "name": "San Diego",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/4X0i0n3QrQHJqs8o119eTA_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "07:30",
-    "match_date": "2025-06-29",
-    "match_time": "07:30",
-    "infogp": "", "firstRow": 26
   }
 ]
