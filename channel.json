@@ -162,10 +162,10 @@
   },
   {
     "id": "Channel24",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=inews",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=inews",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-inewstv.png",
     "name": "iNEWS",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "id": "Channel25",
@@ -176,24 +176,24 @@
   },
   {
     "id": "Channel26",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=tvone",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=tvone",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg",
     "name": "TV One",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "id": "Channel27",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=kompas",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=kompastv",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg",
     "name": "Kompas TV",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "id": "Channel28",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=antv",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=antv",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg",
     "name": "ANTV",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "id": "Channel29",
@@ -204,17 +204,17 @@
   },
   {
     "id": "Channel30",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=trans7",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=trans7",
     "logo": "https://tv.detik.com/image/Trans7.jpg",
     "name": "Trans 7",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "id": "Channel31",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=transtv",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=transtv",
     "logo": "https://tv.detik.com/image/TransTV.jpg",
     "name": "Trans TV",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "id": "Channel32",
@@ -225,14 +225,14 @@
   },
   {
     "id": "Channel33",
-    "url": "https://bikinbaru94.blogspot.com/p/tipiplayer.html?key=sctv",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=sctv",
     "logo": "https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg",
     "name": "SCTV",
     "status": "Online"
   },
   {
     "id": "Channel34",
-    "url": "https://bikinbaru94.blogspot.com/p/tipiplayer.html?key=indosiar",
+    "url": "https://bikinbaru94.blogspot.com/p/playerindi.html?id=indosiar",
     "logo": "https://images.indihometv.com/tvposter/indosiar.png",
     "name": "Indosiar",
     "status": "Online"
