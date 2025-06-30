@@ -1,22 +1,22 @@
 [
   {
-    "id": "fbc7c9d9-134f-4a97-8b0f-7c70a9af7abc",
-    "duration": 8,
-    "league": "US Open Badminton Championships",
-    "icon": "https://i.imgur.com/mD7ivNN.png",
+    "id": "e7b12ae6-5f10-451b-a358-2aca0b7fb0b4",
+    "duration": 15,
+    "league": "Wimbledon Championships - Day 1",
+    "icon": "https://i.imgur.com/2dGORqV.png",
     "team1": {
-      "name": "Badminton",
-      "logo": "https://i.imgur.com/nPGQrvL.png"
+      "name": "Tennis",
+      "logo": "https://i.imgur.com/2dGORqV.png"
     },
     "team2": {
-      "name": "Badminton",
-      "logo": "https://i.imgur.com/nPGQrvL.png"
+      "name": "Tennis",
+      "logo": "https://i.imgur.com/2dGORqV.png"
     },
     "kickoff_date": "2025-06-30",
-    "kickoff_time": "00:00",
+    "kickoff_time": "17:00",
     "match_date": "2025-06-30",
-    "match_time": "00:00",
-    "infogp": "", "firstRow": 3
+    "match_time": "17:00",
+    "firstRow": 3
   },
   {
     "id": "e10aa519-23c4-4da4-91ea-03dbc2852e9c",
