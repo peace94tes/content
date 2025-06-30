@@ -141,24 +141,24 @@
   },
   {
     "id": "Channel21",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=rcti",
+    "url": "",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-rcti.png",
     "name": "RCTI",
     "status": "<b style='color:red !important'>Offline</b>"
   },
   {
     "id": "Channel22",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=mnc",
+    "url": "",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-mnctv.png",
     "name": "MNCTV",
-    "status": "Offline"
+    "status": "<b style='color:red !important'>Offline</b>"
   },
   {
     "id": "Channel23",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=gtv",
+    "url": "",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-gtv.png",
     "name": "GTV",
-    "status": "Offline"
+    "status": "<b style='color:red !important'>Offline</b>"
   },
   {
     "id": "Channel24",
@@ -169,10 +169,10 @@
   },
   {
     "id": "Channel25",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=metrotv",
+    "url": "",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",
     "name": "Metro TV",
-    "status": "Offline"
+    "status": "<b style='color:red !important'>Offline</b>"
   },
   {
     "id": "Channel26",
@@ -197,10 +197,10 @@
   },
   {
     "id": "Channel29",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=rtv",
+    "url": "",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg",
     "name": "RTV",
-    "status": "Offline"
+    "status": "<b style='color:red !important'>Offline</b>"
   },
   {
     "id": "Channel30",
@@ -218,10 +218,10 @@
   },
   {
     "id": "Channel32",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=mdtv",
+    "url": "",
     "logo": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_keojjla6/banner_mdpi.png",
     "name": "MDTV",
-    "status": "Offline"
+    "status": "<b style='color:red !important'>Offline</b>"
   },
   {
     "id": "Channel33",
