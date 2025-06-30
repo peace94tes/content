@@ -144,7 +144,7 @@
     "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=rcti",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-rcti.png",
     "name": "RCTI",
-    "status": "Offline"
+    "status": "<b style="color:red !important;">Offline</b>"
   },
   {
     "id": "Channel22",
