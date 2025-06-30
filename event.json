@@ -16,7 +16,7 @@
     "kickoff_time": "17:00",
     "match_date": "2025-06-30",
     "match_time": "17:00",
-    "firstRow": 3
+    "infogp": "", "firstRow": 3
   },
   {
     "id": "e10aa519-23c4-4da4-91ea-03dbc2852e9c",
@@ -35,7 +35,7 @@
     "kickoff_time": "02:00",
     "match_date": "2025-07-01",
     "match_time": "01:30",
-    "firstRow": 4
+    "infogp": "", "firstRow": 4
   },
   {
     "id": "4ea1856c-1650-49f3-bf70-beb2a57c691c",
@@ -54,6 +54,6 @@
     "kickoff_time": "08:00",
     "match_date": "2025-07-01",
     "match_time": "07:30",
-    "firstRow": 5
+    "infogp": "", "firstRow": 5
   }
 ]
