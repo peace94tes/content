@@ -1,24 +1,5 @@
 [
   {
-    "id": "ffa5d837-8cff-4e0d-b244-5e863be73902",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Bulgaria",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
-    },
-    "team2": {
-      "name": "Ukraine",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/DQIQtK7N4yrDIqw75pxFHg_96x96.png"
-    },
-    "kickoff_date": "2025-06-29",
-    "kickoff_time": "23:00",
-    "match_date": "2025-06-29",
-    "match_time": "23:00",
-    "infogp": "", "firstRow": 3
-  },
-  {
     "id": "fbc7c9d9-134f-4a97-8b0f-7c70a9af7abc",
     "duration": 8,
     "league": "US Open Badminton Championships",
@@ -35,101 +16,6 @@
     "kickoff_time": "00:00",
     "match_date": "2025-06-30",
     "match_time": "00:00",
-    "infogp": "", "firstRow": 4
-  },
-  {
-    "id": "5eaae843-048e-483f-8526-2944eb9015c4",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "China",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png"
-    },
-    "team2": {
-      "name": "Canada",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png"
-    },
-    "kickoff_date": "2025-06-30",
-    "kickoff_time": "00:30",
-    "match_date": "2025-06-30",
-    "match_time": "00:30",
-    "infogp": "", "firstRow": 5
-  },
-  {
-    "id": "899f5616-6087-48f2-aa31-c91fc044407c",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Germany",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "team2": {
-      "name": "Serbia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png"
-    },
-    "kickoff_date": "2025-06-30",
-    "kickoff_time": "01:00",
-    "match_date": "2025-06-30",
-    "match_time": "01:00",
-    "infogp": "", "firstRow": 6
-  },
-  {
-    "id": "7910e76c-b83b-44fd-a6d5-59e250f58413",
-    "duration": 4,
-    "league": "FIFA Club World Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Flamengo",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/orE554NToSkH6nuwofe7Yg_96x96.png"
-    },
-    "team2": {
-      "name": "Bayern Munchen",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
-    },
-    "kickoff_date": "2025-06-30",
-    "kickoff_time": "03:00",
-    "match_date": "2025-06-30",
-    "match_time": "02:30",
-    "infogp": "", "firstRow": 7
-  },
-  {
-    "id": "8d72ce90-d034-4ab6-89ec-af9935b5dafe",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Brazil",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png"
-    },
-    "team2": {
-      "name": "Poland",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png"
-    },
-    "kickoff_date": "2025-06-30",
-    "kickoff_time": "04:00",
-    "match_date": "2025-06-30",
-    "match_time": "04:00",
-    "infogp": "", "firstRow": 8
-  },
-  {
-    "id": "8e7e09cb-765d-4f46-ab7c-16b5e410ea8f",
-    "duration": 3,
-    "league": "Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "USA",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png"
-    },
-    "team2": {
-      "name": "Italy",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
-    },
-    "kickoff_date": "2025-06-30",
-    "kickoff_time": "07:30",
-    "match_date": "2025-06-30",
-    "match_time": "07:30",
-    "infogp": "", "firstRow": 9
+    "infogp": "", "firstRow": 3
   }
 ]
