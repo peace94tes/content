@@ -19,6 +19,25 @@
     "infogp": "", "firstRow": 3
   },
   {
+    "id": "96af865e-4a25-45fe-b18c-9d8854847155",
+    "duration": 15,
+    "league": "YONEX Canada Open",
+    "icon": "https://i.imgur.com/mD7ivNN.png",
+    "team1": {
+      "name": "Badminton",
+      "logo": "https://static.flashscore.com/res/image/data/2Lq2gK7j-4A5yWdL0.png"
+    },
+    "team2": {
+      "name": "Badminton",
+      "logo": "https://static.flashscore.com/res/image/data/2Lq2gK7j-4A5yWdL0.png"
+    },
+    "kickoff_date": "2025-07-01",
+    "kickoff_time": "20:00",
+    "match_date": "2025-07-01",
+    "match_time": "20:00",
+    "infogp": "", "firstRow": 4
+  },
+  {
     "id": "845016f5-ad4d-401b-95f3-a5339ae2b248",
     "duration": 4,
     "league": "FIFA Club World Cup",
@@ -35,7 +54,7 @@
     "kickoff_time": "02:00",
     "match_date": "2025-07-02",
     "match_time": "01:30",
-    "infogp": "", "firstRow": 4
+    "infogp": "", "firstRow": 5
   },
   {
     "id": "ccb70c40-42d8-4050-a5b2-7bc79048151d",
@@ -54,6 +73,6 @@
     "kickoff_time": "08:00",
     "match_date": "2025-07-02",
     "match_time": "07:30",
-    "infogp": "", "firstRow": 5
+    "infogp": "", "firstRow": 6
   }
 ]
