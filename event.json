@@ -17,43 +17,5 @@
     "match_date": "2025-06-30",
     "match_time": "17:00",
     "infogp": "", "firstRow": 3
-  },
-  {
-    "id": "e10aa519-23c4-4da4-91ea-03dbc2852e9c",
-    "duration": 4,
-    "league": "FIFA Club World Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Inter Milan",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
-    },
-    "team2": {
-      "name": "Fluminense",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png"
-    },
-    "kickoff_date": "2025-07-01",
-    "kickoff_time": "02:00",
-    "match_date": "2025-07-01",
-    "match_time": "01:30",
-    "infogp": "", "firstRow": 4
-  },
-  {
-    "id": "4ea1856c-1650-49f3-bf70-beb2a57c691c",
-    "duration": 4,
-    "league": "FIFA Club World Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png"
-    },
-    "team2": {
-      "name": "Al Hilal",
-      "logo": "https://i.imgur.com/XQ8BX2x.png"
-    },
-    "kickoff_date": "2025-07-01",
-    "kickoff_time": "08:00",
-    "match_date": "2025-07-01",
-    "match_time": "07:30",
-    "infogp": "", "firstRow": 5
   }
 ]
