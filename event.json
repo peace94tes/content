@@ -19,6 +19,25 @@
     "infogp": "", "firstRow": 3
   },
   {
+    "id": "690b9011-6a03-485d-aaa5-38376f858281",
+    "duration": 2.17,
+    "league": "AFC Women's Asian Cup",
+    "icon": "https://i.imgur.com/oJfBO55.png",
+    "team1": {
+      "name": "Pakistan",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png"
+    },
+    "team2": {
+      "name": "Indonesia",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png"
+    },
+    "kickoff_date": "2025-07-02",
+    "kickoff_time": "20:00",
+    "match_date": "2025-07-02",
+    "match_time": "20:00",
+    "infogp": "", "firstRow": 4
+  },
+  {
     "id": "86af865e-4a25-45fe-b18c-9d8854847155",
     "duration": 12,
     "league": "YONEX Canada Open",
@@ -35,6 +54,6 @@
     "kickoff_time": "22:00",
     "match_date": "2025-07-02",
     "match_time": "22:00",
-    "infogp": "", "firstRow": 4
+    "infogp": "", "firstRow": 5
   }
 ]
