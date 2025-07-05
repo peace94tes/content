@@ -38,27 +38,8 @@
     "infogp": "Qualifying | 21:00 WIB", "firstRow": 4
   },
   {
-    "id": "d229776d-d9b4-4784-a412-d35327cebe92",
-    "duration": 2.17,
-    "league": "AFC Women's Asian Cup",
-    "icon": "https://i.imgur.com/oJfBO55.png",
-    "team1": {
-      "name": "Chinese Taipei",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/U4n7Kevl7G3LPyCIGy5vWQ_96x96.png"
-    },
-    "team2": {
-      "name": "Indonesia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png"
-    },
-    "kickoff_date": "2025-07-05",
-    "kickoff_time": "20:00",
-    "match_date": "2025-07-05",
-    "match_time": "20:00",
-    "infogp": "", "firstRow": 5
-  },
-  {
     "id": "26af865e-4a25-45fe-b18c-9d8854847156",
-    "duration": 10,
+    "duration": 12,
     "league": "YONEX Canada Open",
     "icon": "https://i.imgur.com/mD7ivNN.png",
     "team1": {
@@ -73,7 +54,7 @@
     "kickoff_time": "22:00",
     "match_date": "2025-07-05",
     "match_time": "22:00",
-    "infogp": "", "firstRow": 6
+    "infogp": "COURT 2 | 03:30 WIB", "firstRow": 6
   },
   {
     "id": "e4c21069-891b-4c62-a0f2-cf116d24d9a5",
