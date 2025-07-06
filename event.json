@@ -39,7 +39,7 @@
   },
   {
     "id": "690b9011-992f-4a61-a0d7-38376f858281",
-    "duration": 1000,
+    "duration": 4,
     "league": "F1 British Grand Prix",
     "icon": "https://i.imgur.com/hYCzOBd.png",
     "team1": {
@@ -52,9 +52,9 @@
     },
     "kickoff_date": "2025-07-06",
     "kickoff_time": "17:30",
-    "match_date": "2025-07-04",
-    "match_time": "18:30",
-    "infogp": "Qualifying | 21:00 WIB", "firstRow": 5
+    "match_date": "2025-07-06",
+    "match_time": "21:00",
+    "infogp": "Race | 21:00 WIB", "firstRow": 5
   },
   {
     "id": "78f5a781-7bca-432c-abbd-ab3a43df049b",
