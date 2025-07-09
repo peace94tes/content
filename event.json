@@ -19,46 +19,8 @@
     "infogp": "", "firstRow": 6
   },
   {
-    "id": "60b16087-d2b0-47c8-a252-dc6f0f1daf78",
-    "duration": 3,
-    "league": "Women's Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Germany",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png"
-    },
-    "team2": {
-      "name": "Canada",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png"
-    },
-    "kickoff_date": "2025-07-10",
-    "kickoff_time": "00:30",
-    "match_date": "2025-07-10",
-    "match_time": "00:30",
-    "infogp": "", "firstRow": 8
-  },
-  {
-    "id": "625486f8-2b90-4764-923d-e2840934b980",
-    "duration": 3,
-    "league": "Women's Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Netherlands",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png"
-    },
-    "team2": {
-      "name": "Turkey",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_96x96.png"
-    },
-    "kickoff_date": "2025-07-10",
-    "kickoff_time": "01:30",
-    "match_date": "2025-07-10",
-    "match_time": "01:30",
-    "infogp": "", "firstRow": 9
-  },
-  {
     "id": "84136a7b-03fa-46fa-9d67-b842b01c07e0",
-    "duration": 4,
+    "duration": 3,
     "league": "FIFA Club World Cup",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
