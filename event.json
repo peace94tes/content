@@ -19,25 +19,6 @@
     "infogp": "", "firstRow": 6
   },
   {
-    "id": "6bd0f37b-63e3-49e9-8579-086a040c7268",
-    "duration": 3,
-    "league": "Women's Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Italy",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
-    },
-    "team2": {
-      "name": "Belgium",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png"
-    },
-    "kickoff_date": "2025-07-09",
-    "kickoff_time": "22:00",
-    "match_date": "2025-07-09",
-    "match_time": "22:00",
-    "infogp": "", "firstRow": 7
-  },
-  {
     "id": "60b16087-d2b0-47c8-a252-dc6f0f1daf78",
     "duration": 3,
     "league": "Women's Volleyball Nations League",
@@ -77,7 +58,7 @@
   },
   {
     "id": "84136a7b-03fa-46fa-9d67-b842b01c07e0",
-    "duration": 5,
+    "duration": 4,
     "league": "FIFA Club World Cup",
     "icon": "https://i.imgur.com/oJfBO55.png",
     "team1": {
@@ -91,7 +72,7 @@
     "kickoff_date": "2025-07-10",
     "kickoff_time": "02:00",
     "match_date": "2025-07-10",
-    "match_time": "02:00",
+    "match_time": "01:30",
     "infogp": "", "firstRow": 10
   },
   {
