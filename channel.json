@@ -141,23 +141,23 @@
   },
   {
     "id": "Channel21",
-    "url": "https://bikinbaru94.blogspot.com/p/tipiplayer.html?key=rcti",
+    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=rcti",
     "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-rcti.png",
     "name": "RCTI",
     "status": "Online"
   },
   {
     "id": "Channel22",
-    "url": "https://bikinbaru94.blogspot.com/p/tipiplayer.html?key=mnc",
-    "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-mnctv.png",
-    "name": "MNCTV",
+    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=gtv",
+    "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-gtv.png",
+    "name": "GTV",
     "status": "Online"
   },
   {
     "id": "Channel23",
-    "url": "https://bikinbaru94.blogspot.com/p/dashplayer.html?channel=gtv",
-    "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-gtv.png",
-    "name": "GTV",
+    "url": "https://bikinbaru94.blogspot.com/p/tipiplayer.html?key=mnc",
+    "logo": "https://am.sindonews.net/mobile/2016/images/tv/live-mnctv.png",
+    "name": "MNCTV",
     "status": "Online"
   },
   {
