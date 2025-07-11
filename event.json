@@ -16,7 +16,7 @@
     "kickoff_time": "13:30",
     "match_date": "2025-07-11",
     "match_time": "13:30",
-    "firstRow": 3
+    "infogp": "", "firstRow": 3
   },
   {
     "id": "0e3442b8-51ba-4f62-b135-14ea6317f9cf",
@@ -35,7 +35,7 @@
     "kickoff_time": "13:30",
     "match_date": "2025-07-11",
     "match_time": "13:30",
-    "firstRow": 4
+    "infogp": "", "firstRow": 4
   },
   {
     "id": "736effc6-d885-443e-ad28-0fc24f4b02f6",
@@ -54,7 +54,7 @@
     "kickoff_time": "14:00",
     "match_date": "2025-07-11",
     "match_time": "14:00",
-    "firstRow": 5
+    "infogp": "", "firstRow": 5
   },
   {
     "id": "4e8e1013-bf85-45bd-b68e-61104ba46147",
@@ -73,7 +73,7 @@
     "kickoff_time": "15:00",
     "match_date": "2025-07-11",
     "match_time": "15:00",
-    "firstRow": 6
+    "infogp": "", "firstRow": 6
   },
   {
     "id": "y5532766-18ac-46d0-8a1e-2dfb44a6db2f",
@@ -111,7 +111,7 @@
     "kickoff_time": "22:00",
     "match_date": "2025-07-11",
     "match_time": "22:00",
-    "firstRow": 7
+    "infogp": "", "firstRow": 7
   },
   {
     "id": "1ed4bb1f-73c7-4898-b28b-2d9472268cd0",
@@ -130,7 +130,7 @@
     "kickoff_time": "01:30",
     "match_date": "2025-07-12",
     "match_time": "01:30",
-    "firstRow": 8
+    "infogp": "", "firstRow": 8
   },
   {
     "id": "3e2c288d-a73a-4108-bc0a-c1f9f9ae2929",
@@ -149,7 +149,7 @@
     "kickoff_time": "04:00",
     "match_date": "2025-07-12",
     "match_time": "04:00",
-    "firstRow": 9
+    "infogp": "", "firstRow": 9
   },
   {
     "id": "dfecbdc2-6bc5-4b71-9513-aa1e69748130",
@@ -168,7 +168,7 @@
     "kickoff_time": "07:30",
     "match_date": "2025-07-12",
     "match_time": "07:30",
-    "firstRow": 10
+    "infogp": "", "firstRow": 10
   },
   {
     "id": "f8b05907-dcf9-4ef0-ac99-fd5c24e4daaa",
@@ -187,7 +187,7 @@
     "kickoff_time": "13:30",
     "match_date": "2025-07-12",
     "match_time": "13:30",
-    "firstRow": 11
+    "infogp": "", "firstRow": 11
   },
   {
     "id": "25def99e-4c26-415f-86f1-c3a7a7bccf2f",
@@ -206,6 +206,6 @@
     "kickoff_time": "14:00",
     "match_date": "2025-07-12",
     "match_time": "14:00",
-    "firstRow": 12
+    "infogp": "", "firstRow": 12
   }
 ]
