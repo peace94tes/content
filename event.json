@@ -12,7 +12,7 @@
       "name": "MotoGP",
       "logo": "https://i.imgur.com/enF2GWY.png"
     },
-    "kickoff_date": "2025-07-11",
+    "kickoff_date": "2025-07-12",
     "kickoff_time": "14:00",
     "match_date": "2025-07-11",
     "match_time": "14:00",
@@ -31,11 +31,11 @@
       "name": "WSBK",
       "logo": "https://i.imgur.com/UC3SpBb.png"
     },
-    "kickoff_date": "2025-07-11",
+    "kickoff_date": "2025-07-12",
     "kickoff_time": "15:00",
     "match_date": "2025-07-11",
     "match_time": "15:00",
-    "infogp": "", "firstRow": 5
+    "infogp": "Superpole | 17:00 WIB", "firstRow": 5
   },
   {
     "id": "y5532766-18ac-46d0-8a1e-2dfb44a6db2f",
