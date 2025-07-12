@@ -38,44 +38,6 @@
     "infogp": "Superpole | 17:00 WIB", "firstRow": 4
   },
   {
-    "id": "f8b05907-dcf9-4ef0-ac99-fd5c24e4daaa",
-    "duration": 3,
-    "league": "Women's Volleyball Nations League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "South Korea",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png"
-    },
-    "team2": {
-      "name": "Bulgaria",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png"
-    },
-    "kickoff_date": "2025-07-12",
-    "kickoff_time": "13:30",
-    "match_date": "2025-07-12",
-    "match_time": "13:30",
-    "infogp": "", "firstRow": 5
-  },
-  {
-    "id": "25def99e-4c26-415f-86f1-c3a7a7bccf2f",
-    "duration": 3,
-    "league": "SEA V League",
-    "icon": "https://i.imgur.com/HzZe9uC.png",
-    "team1": {
-      "name": "Indonesia",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png"
-    },
-    "team2": {
-      "name": "Vietnam",
-      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/IUYV_ZAMxDdabQPzSpTJtg_96x96.png"
-    },
-    "kickoff_date": "2025-07-12",
-    "kickoff_time": "14:00",
-    "match_date": "2025-07-12",
-    "match_time": "14:00",
-    "infogp": "", "firstRow": 6
-  },
-  {
     "id": "6a95b723-f595-4236-9046-13cf03de07f2",
     "duration": 3,
     "league": "Women's Volleyball Nations League",
@@ -92,7 +54,7 @@
     "kickoff_time": "17:20",
     "match_date": "2025-07-12",
     "match_time": "17:20",
-    "infogp": "", "firstRow": 7
+    "infogp": "", "firstRow": 6
   },
   {
     "id": "u5532766-18ac-46d0-8a1e-2dfb44a6db2f",
@@ -111,7 +73,7 @@
     "kickoff_time": "19:00",
     "match_date": "2025-07-12",
     "match_time": "19:00",
-    "infogp": "", "firstRow": 28
+    "infogp": "", "firstRow": 7
   },
   {
     "id": "ccfff57f-1305-4773-88a4-8fd9d111b5a5",
